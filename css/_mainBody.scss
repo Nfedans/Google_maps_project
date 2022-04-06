@@ -1,0 +1,63 @@
+/*      MAINBODY        */
+
+$map-height: 66.66vh;
+$map-width: 100vw;
+$menu-height: 33.33vh;
+$menu-width: 100vw;
+
+$purple: #804F9B;
+$pink: #E8308A;
+$orange: #EE7203;
+$black: #000000;
+$grey: #F1F1F1;
+$blue: #21A5DE;
+$yellow: #FEC047;
+$red: #EF393F;
+$dark-grey: #E3E3E3;
+$white: #FFFFFF;
+$goldish: #CEDE00;
+
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+    overflow-y: scroll;
+    background-color: $white;
+  }
+  
+  body::-webkit-scrollbar {
+    display: none;
+  }
+  
+  #menu {
+    width: calc(#{$menu-width} - 2vh - 2px);
+    /* max-height: 33vh;-
+    min-height: 10vh; */
+    height: calc(#{$menu-height} - 2vh - 2px);
+    background-color: $dark-grey;
+    margin-top: 0.5vh; 
+    margin-bottom: 1vh; 
+    border-radius: calc((1vh + 1vh));
+    border: 1px solid $purple;
+  }
+  
+  #map { 
+    width: calc(#{$map-width} - 2vh - 2px);
+    height: calc(#{$map-height} - 1vh - 2px);
+    max-height: 88vh;
+    margin-top: 1vh; 
+    margin-bottom: 0.5vh; 
+    border-radius: calc((1vh + 1vh));
+    border: 1px solid $purple;
+  }
+  
+  #icon {
+    max-height: 40px;
+    max-width: 22px;
+  }

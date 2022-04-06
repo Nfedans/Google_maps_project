@@ -1,7 +1,8 @@
-[
+{
+  "venues" :[
   {
     "name": "Alexander Stadium",
-    "phone": 441214648008,
+    "phone": "441214648008",
     "website": "https://www.birmingham.gov.uk/alexander",
     "image": "AlexanderStadium.jpg",
     "latitude": 52.530936999999994,
@@ -18,7 +19,7 @@
   },
   {
     "name": "Utilita Arena Birmingham",
-    "phone": 441217804141,
+    "phone": "441217804141",
     "website": "https://www.utilitaarenabham.co.uk",
     "image": "UtilitaArenaBirmingham.jpg",
     "latitude": 52.479717449999995,
@@ -35,7 +36,7 @@
   },
   {
     "name": "Lee Valley VeloPark",
-    "phone": 443000030613,
+    "phone": "443000030613",
     "website": "https://www.better.org.uk/leisure-centre/lee-valley/velopark",
     "image": "LeeValleyVeloPark.jpg",
     "latitude": 51.550376799999995,
@@ -52,7 +53,7 @@
   },
   {
     "name": "Coventry Stadium & Arena",
-    "phone": 442476933444,
+    "phone": "442476933444",
     "website": "https://www.cbsarena.co.uk",
     "image": "LeeValleyVeloPark.jpg",
     "latitude": 51.550376799999995,
@@ -66,5 +67,193 @@
         "Description": ""
       }
     ]
+  },
+  {
+    "name": "Cannock Chase Forest",
+    "phone": "443000674340",
+    "website": "https://cannockchase.org.uk/parks/birches-valley-forest-centre",
+    "image": "CannockChaseForest.webp",
+    "latitude": 52.75182255224424,
+    "longitude": -1.9749603872251655,
+    "wheelchair": false,
+    "events": [
+      {
+        "Name": "",
+        "Date": "",
+        "Time": "",
+        "Description": ""
+      }
+    ]
+  },
+  {
+    "name": "Edgbaston Stadium",
+    "phone": "448446351902",
+    "website": "https://edgbaston.com/",
+    "image": "Edgbaston.webp",
+    "latitude": 	52.45535824116285,
+    "longitude": -1.9041023863002897,
+    "wheelchair": true,
+    "events": [
+      {
+        "Name": "",
+        "Date": "",
+        "Time": "",
+        "Description": ""
+      }
+    ]
+  },
+  {
+    "name": "The NEC",
+    "phone": "441217804141",
+    "website": "https://thenec.co.uk/",
+    "image": "NEC.webp",
+    "latitude": 	52.454370958299464,
+    "longitude":  -1.7170518858434227,
+    "wheelchair": true,
+    "events": [
+      {
+        "Name": "",
+        "Date": "",
+        "Time": "",
+        "Description": ""
+      }
+    ]
+  },
+  {
+    "name": "Sandwell Aquatics Centre",
+    "phone": "01215692200",
+    "website": "http://www.sandwell.gov.uk/aquaticscentre",
+    "image": "Sandwell.webp",
+    "latitude": 	52.48929802639806,
+    "longitude":  -1.9895367821356418,
+    "wheelchair": true,
+    "events": [
+      {
+        "Name": "",
+        "Date": "",
+        "Time": "",
+        "Description": ""
+      }
+    ]
+  },
+  {
+    "name": "Smithfield",
+    "phone": "",
+    "website": "",
+    "image": "Smithfield.webp",
+    "latitude": 	52.47198389646618,
+    "longitude":  -1.891131355897587,
+    "wheelchair": true,
+    "events": [
+      {
+        "Name": "",
+        "Date": "",
+        "Time": "",
+        "Description": ""
+      }
+    ]
+  },
+  {
+    "name": "Sutton Park",
+    "phone": "441214648728",
+    "website": "https://www.birmingham.gov.uk/info/20089/parks/405/sutton_park",
+    "image": "sutton-water.webp",
+    "latitude": 	52.556218598432785,
+    "longitude":  -1.844282242871684,
+    "wheelchair": false,
+    "events": [
+      {
+        "Name": "",
+        "Date": "",
+        "Time": "",
+        "Description": ""
+      }
+    ]
+  },
+  {
+    "name": "University of Birmingham Hockey and Squash Centre",
+    "phone": "01214144117",
+    "website": "https://sportandfitness.bham.ac.uk/sport/discover-sport/hockey/",
+    "image": "University-Birmingham.webp",
+    "latitude": 	52.453289713437236,
+    "longitude":  -1.927891507775706,
+    "wheelchair": true,
+    "events": [
+      {
+        "Name": "",
+        "Date": "",
+        "Time": "",
+        "Description": ""
+      }
+    ]
+  },
+  {
+    "name": "Victoria Park",
+    "phone": "",
+    "website": "https://www.sandwell.gov.uk/info/200249/parks_in_sandwell/1701/visiting_victoria_park_smethwick",
+    "image": "Victoria-Park.webp",
+    "latitude": 	52.28719972783462,
+    "longitude":  -1.543736627765278,
+    "wheelchair": false,
+    "events": [
+      {
+        "Name": "",
+        "Date": "",
+        "Time": "",
+        "Description": ""
+      }
+    ]
+  },
+  {
+    "name": "Victoria Square",
+    "phone": "",
+    "website": "",
+    "image": "Square.webp",
+    "latitude": 	52.47896135751349,
+    "longitude":  -1.9028046355160046,
+    "wheelchair": true,
+    "events": [
+      {
+        "Name": "",
+        "Date": "",
+        "Time": "",
+        "Description": ""
+      }
+    ]
+  },
+  {
+    "name": "Warwick",
+    "phone": "441926456128",
+    "website": "https://www.warwickdc.gov.uk/info/20547/warwick_car_parks/637/myton_fields_car_park_map",
+    "image": "Warwick.webp",
+    "latitude": 	52.280693711307954,
+    "longitude":  -1.5708382082475476,
+    "wheelchair": false,
+    "events": [
+      {
+        "Name": "",
+        "Date": "",
+        "Time": "",
+        "Description": ""
+      }
+    ]
+  },
+  {
+    "name": "West Park",
+    "phone": "",
+    "website": "",
+    "image": "West-Park.webp",
+    "latitude": 	52.58961464536341,
+    "longitude":  -2.1397746719591275,
+    "wheelchair": false,
+    "events": [
+      {
+        "Name": "",
+        "Date": "",
+        "Time": "",
+        "Description": ""
+      }
+    ]
   }
 ]
+}
