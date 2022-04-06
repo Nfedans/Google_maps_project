@@ -1,0 +1,27 @@
+
+body
+{
+margin: 0;
+padding: 0;
+            
+}
+#menu
+{
+width: 100vw;
+/* max-height: 33vh;
+min-height: 10vh; */
+height: 33vh;
+background-color: #555555; 
+}
+#map
+{
+width:100vw;
+min-height:66vh;
+max-height: 90vh;
+border:thin solid #ccc;
+}
+#iconArgos
+{
+max-height: 40px;
+max-width: 22px
+}
