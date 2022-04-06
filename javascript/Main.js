@@ -14,8 +14,8 @@ window.onload = () =>
                 ]
 
                 let map = new google.maps.Map(document.getElementById("map"), {
-                    zoom: 16,
-                    center: new google.maps.LatLng(53.96393775160952, -6.369076964739406),
+                    zoom: 13,
+                    center: new google.maps.LatLng(52.489471, -1.898575),
                     mapTypeId: google.maps.MapTypeId.ROADMAP                   
                 })                               
 
