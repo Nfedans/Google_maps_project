@@ -1,0 +1,1118 @@
+{
+    "PlacesOfWorship": [
+      {
+        "Type": "Place of worship",
+        "Name": "Birmingham City Church",
+        "Address": "Parade, Birmingham B1 3QQ, United Kingdom",
+        "Telephone": "441212362997",
+        "Rating": 4.5,
+        "Email": "admin@bcc.life",
+        "Website": "http://bcc.life",
+        "Latitude": "52.49067529866229",
+        "Longitude": "-1.9146230980711851",
+        "Venue": false,
+        "Image": "BirminghamCityChurch.jpg"
+      },
+      {
+        "Type": "Place of worship",
+        "Name": "Birmingham Evangelical Church",
+        "Address": "47 Sandwell Rd, Birmingham B21 8NH, United Kingdom",
+        "Telephone": "1215515232",
+        "Rating": 3.8,
+        "Email": "admin@beacon-church.co.uk ",
+        "Website": "http://beacon-church.co.uk",
+        "Latitude": "52.52666874152602",
+        "Longitude": "-1.9500664069962375",
+        "Venue": false,
+        "Image": "BirminghamEvangelicalChurch.jpg"
+      },
+      {
+        "Type": "Place of worship",
+        "Name": "Birmingham Central Mosque",
+        "Address": "180 Belgrave Middleway, Birmingham B12 0XS, United Kingdom",
+        "Telephone": "441214405355",
+        "Rating": 4.1,
+        "Email": "enquiries@centralmosque.org.uk",
+        "Website": "https://centralmosque.org.uk",
+        "Latitude": "52.46540861996957",
+        "Longitude": "1.8906735765776512",
+        "Venue": false,
+        "Image": "BirminghamCentralMosque.jpg"
+      },
+      {
+        "Type": "Place of worship",
+        "Name": "Birmingham Buddhist Centre",
+        "Address": "11 Park Rd, Birmingham B13 8AB, United Kingdom",
+        "Telephone": "1214495279",
+        "Rating": 3.7,
+        "Email": "info@birminghambuddhistcentre.org.uk",
+        "Website": "https://www.birminghambuddhistcentre.org.uk",
+        "Latitude": "52.457479119994595",
+        "Longitude": "-1.888723685090727",
+        "Venue": false,
+        "Image": "BirminghamBuddhistCentre.jpg"
+      }
+    ],
+  
+    "Resturants": [
+      {
+        "Type": "Resturant",
+        "Name": "Chaophraya Thai Restaurant",
+        "Address": "Saint Martins Square, 6 Spiceal St, Birmingham B5 4BW, United Kingdom",
+        "Telephone": "1216550324",
+        "Email": "birmingham@chaophraya.co.uk",
+        "Rating": 4.2,
+        "Website": "https://chaophraya.co.uk/thai-restaurant/birmingham/contact",
+        "Latitude": "52.48615628240169",
+        "Longitude": "-1.8952177863905255",
+        "Image": "ChaophrayaThaiRestaurant.jpg",
+        "Venue": false,
+        "OpeningHours": [
+          {
+            "Day": "Monday",
+            "Open": "12:00 pm",
+            "Close": "10:30 pm"
+          },
+          {
+            "Day": "Tuesday",
+            "Open": "12:00 pm",
+            "Close": "10:30 pm"
+          },
+          {
+            "Day": "Wednesday",
+            "Open": "12:00 pm",
+            "Close": "10:30 pm"
+          },
+          {
+            "Day": "Thursday",
+            "Open": "12:00 pm",
+            "Close": "10:30 pm"
+          },
+          {
+            "Day": "Friday",
+            "Open": "12:00 pm",
+            "Close": "10:30 pm"
+          },
+          {
+            "Day": "Saturday",
+            "Open": "12:00 pm",
+            "Close": "10:30 pm"
+          },
+          {
+            "Day": "Sunday",
+            "Open": "12:00 pm",
+            "Close": "9:30 pm"
+          }
+        ]
+      },
+      {
+        "Type": "Restaurant",
+        "Name": "Dishoom Birmingham",
+        "Address": "One, Chamberlain Square, Birmingham B3 3AX, United Kingdom",
+        "Telephone": "1218095986",
+        "Rating": "4.4",
+        "Email": "",
+        "Website": "https://www.dishoom.com/#welcome",
+        "Latitude": "52.48506798604855",
+        "Longitude": "-1.9051939273663065",
+        "Image": "DisoomBirmingham.jpg",
+        "Venue": false,
+        "OpeningHours": [
+          {
+            "Day": "Monday",
+            "Open": "8:00 am",
+            "Close": "11:00 pm"
+          },
+          {
+            "Day": "Tuesday",
+            "Open": "8:00 am",
+            "Close": "11:00 pm"
+          },
+          {
+            "Day": "Wednesday",
+            "Open": "8:00 am",
+            "Close": "11:00 pm"
+          },
+          {
+            "Day": "Thursday",
+            "Open": "8:00 am",
+            "Close": "11:00 pm"
+          },
+          {
+            "Day": "Friday",
+            "Open": "8:00 am",
+            "Close": "12:00 pm"
+          },
+          {
+            "Day": "Saturday",
+            "Open": "9:00 am",
+            "Close": "12:00 pm"
+          },
+          {
+            "Day": "Sunday",
+            "Open": "9:00 am",
+            "Close": "11:00 pm"
+          }
+        ]
+      },
+      {
+        "Type": "Restaurant",
+        "Name": "Devon House Jamaican Restaurant & Bar",
+        "Address": "16 Hall St, Birmingham B18 6BS, United Kingdom",
+        "Telephone": "1214487203",
+        "Rating": "4.3",
+        "Email": "info@devonhouse.co.uk",
+        "Website": "https://www.devonhouse.co.uk/contact/",
+        "Latitude": "52.49356458502804",
+        "Longitude": "-1.9088039388812874",
+        "Image": "DevonHouseJamaicanRestaurant.jpg",
+        "Venue": false,
+        "OpeningHours": [
+          {
+            "Day": "Monday",
+            "Open": "5:00 pm",
+            "Close": "10:00 pm"
+          },
+          {
+            "Day": "Tuesday",
+            "Open": "5:00 pm",
+            "Close": "10:00 pm"
+          },
+          {
+            "Day": "Wednesday",
+            "Open": "5:00 pm",
+            "Close": "10:00 pm"
+          },
+          {
+            "Day": "Thursday",
+            "Open": "5:00 pm",
+            "Close": "10:00 pm"
+          },
+          {
+            "Day": "Friday",
+            "Open": "5:00 pm",
+            "Close": "11:00 pm"
+          },
+          {
+            "Day": "Saturday",
+            "Open": "12:00 pm",
+            "Close": "11:00 pm"
+          },
+          {
+            "Day": "Sunday",
+            "Open": "12:00 pm",
+            "Close": "9:00 pm"
+          }
+        ]
+      },
+      {
+        "Type": "Restaurant",
+        "Name": "Kopitiam",
+        "Address": "21 Augusta St, Birmingham B18 6JA, United Kingdom",
+        "Telephone": "1212339386 ",
+        "Rating": "4.8",
+        "Email": "",
+        "Website": "https://kopitiambirmingham.com",
+        "Latitude": "52.50430649202654",
+        "Longitude": "-1.9103745823299594",
+        "Image": "Koitiam.jpg",
+        "Venue": false,
+        "OpeningHours": [
+          {
+            "Day": "Monday",
+            "Open": "11:00 am, After break 5:00 pm",
+            "Close": "take break 3:00 pm, 9:00 pm"
+          },
+          {
+            "Day": "Tuesday",
+            "Open": "11:00 am, After break 5:00 pm",
+            "Close": "take break 3:00 pm, 9:00 pm"
+          },
+          {
+            "Day": "Wednesday",
+            "Open": "11:00 am, After break 5:00 pm",
+            "Close": "take break 3:00 pm, 9:00 pm"
+          },
+          {
+            "Day": "Thursday",
+            "Open": "Closed",
+            "Close": "Closed"
+          },
+          {
+            "Day": "Friday",
+            "Open": "11:00 am, After break 5:00 pm",
+            "Close": "take break 3:00 pm, 9:00 pm"
+          },
+          {
+            "Day": "Saturday",
+            "Open": "11:00 am, After break 5:00 pm",
+            "Close": "take break 3:00 pm, 9:00 pm"
+          },
+          {
+            "Day": "Sunday",
+            "Open": "11:00 am, After break 5:00 pm",
+            "Close": "take break 3:00 pm, 9:00 pm"
+          }
+        ]
+      },
+      {
+        "Type": "Restaurant",
+        "Name": "Malaysian Delight",
+        "Address": "8 Ladywell Walk, Birmingham B5 4ST, United Kingdom",
+        "Telephone": "1216223909",
+        "Rating": "4.2",
+        "Email": "info@malaysiandelightbirmingham.com",
+        "Website": "https://www.malaysiandelightbirmingham.com",
+        "Latitude": "52.492537226834976",
+        "Longitude": "1.9040670831163482",
+        "Image": "MalaysianDelight.jpg",
+        "Venue": false,
+        "OpeningHours": [
+          {
+            "Day": "Monday",
+            "Open": "12:00 pm",
+            "Close": "10:00 pm"
+          },
+          {
+            "Day": "Tuesday",
+            "Open": "12:00 pm",
+            "Close": "10:00 pm"
+          },
+          {
+            "Day": "Wednesday",
+            "Open": "12:00 pm",
+            "Close": "10:00 pm"
+          },
+          {
+            "Day": "Thursday",
+            "Open": "12:00 pm",
+            "Close": "10:00 pm"
+          },
+          {
+            "Day": "Friday",
+            "Open": "12:00 pm",
+            "Close": "10:00 pm"
+          },
+          {
+            "Day": "Saturday",
+            "Open": "12:00 pm",
+            "Close": "10:00 pm"
+          },
+          {
+            "Day": "Sunday",
+            "Open": "12:00 pm",
+            "Close": "10:00 pm"
+          }
+        ]
+      },
+      {
+        "Type": "Restaurant",
+        "Name": "Chung Ying",
+        "Address": "China Quarter, 16-18 Wrottesley St, Birmingham B5 4RT, United Kingdom",
+        "Telephone": "1216225669",
+        "Rating": "4.2",
+        "Email": "",
+        "Website": "https://www.chungying.co.uk",
+        "Latitude": "52.48792411550315",
+        "Longitude": "-1.8976424894971813",
+        "Image": "ChungYing.jpg",
+        "Venue": false,
+        "OpeningHours": [
+          {
+            "Day": "Monday",
+            "Open": "12:00 pm",
+            "Close": "9:00 pm"
+          },
+          {
+            "Day": "Tuesday",
+            "Open": "12:00 pm",
+            "Close": "9:00 pm"
+          },
+          {
+            "Day": "Wednesday",
+            "Open": "12:00 pm",
+            "Close": "9:00 pm"
+          },
+          {
+            "Day": "Thursday",
+            "Open": "12:00 pm",
+            "Close": "9:00 pm"
+          },
+          {
+            "Day": "Friday",
+            "Open": "12:00 pm",
+            "Close": "9:00 pm"
+          },
+          {
+            "Day": "Saturday",
+            "Open": "12:00 pm",
+            "Close": "9:00 pm"
+          },
+          {
+            "Day": "Sunday",
+            "Open": "12:00 pm",
+            "Close": "9:00 pm"
+          }
+        ]
+      },
+      {
+        "Type": "Restaurant",
+        "Name": "Kyoto Sushi & Grill",
+        "Address": "72 Hurst Street The Arcadian, Birmingham B5 4TD, United Kingdom",
+        "Telephone": "121 622 2888",
+        "Rating": "4.5",
+        "Email": "",
+        "Website": "https://kyotosushi.co.uk/contact-us/",
+        "Latitude": "52.59511351385003",
+        "Longitude": "-1.8857842473731135",
+        "Image": "KyotoSushi.jpg",
+        "Venue": false,
+        "OpeningHours": [
+          {
+            "Day": "Monday",
+            "Open": "5:00 pm",
+            "Close": "10:00 pm"
+          },
+          {
+            "Day": "Tuesday",
+            "Open": "5:00 pm",
+            "Close": "10:00 pm"
+          },
+          {
+            "Day": "Wednesday",
+            "Open": "Closed",
+            "Close": "Closed"
+          },
+          {
+            "Day": "Thursday",
+            "Open": "5:00 pm",
+            "Close": "10:00 pm"
+          },
+          {
+            "Day": "Friday",
+            "Open": "5:00 pm",
+            "Close": "10:30 pm"
+          },
+          {
+            "Day": "Saturday",
+            "Open": "12:00 pm",
+            "Close": "10:30 pm"
+          },
+          {
+            "Day": "Sunday",
+            "Open": "12:00 pm",
+            "Close": "9:00 pm"
+          }
+        ]
+      },
+      {
+        "Type": "Restaurant",
+        "Name": "Nando's Birmingham - New Street",
+        "Address": "71 New St, Birmingham B2 4DU, United Kingdom",
+        "Telephone": "441216438180",
+        "Rating": "4.2",
+        "Email": "",
+        "Website": "https://www.nandos.co.uk/restaurants/birmingham/new-street/",
+        "Latitude": "52.49188636326061",
+        "Longitude": ", -1.9037963114980085",
+        "Image": "NandosBirmingham.jpg",
+        "Venue": false,
+        "OpeningHours": [
+          {
+            "Day": "Monday",
+            "Open": "11:00 am",
+            "Close": "10:00 pm"
+          },
+          {
+            "Day": "Tuesday",
+            "Open": "11:00 am",
+            "Close": "10:00 pm"
+          },
+          {
+            "Day": "Wednesday",
+            "Open": "11:00 am",
+            "Close": "10:00 pm"
+          },
+          {
+            "Day": "Thursday",
+            "Open": "11:00 am",
+            "Close": "10:00 pm"
+          },
+          {
+            "Day": "Friday",
+            "Open": "11:00 am",
+            "Close": "10:00 pm"
+          },
+          {
+            "Day": "Saturday",
+            "Open": "11:00 am",
+            "Close": "10:00 pm"
+          },
+          {
+            "Day": "Sunday",
+            "Open": "11:00 am",
+            "Close": "10:00 pm"
+          }
+        ]
+      }
+    ],
+  
+    "Cafe": [
+      {
+        "Type": "Cafe",
+        "Name": "Coffee Tales",
+        "Address": "17-21 Heritage Court 15 Warstone Lane Unit 2, Heritage Court, Birmingham B18 6HP England",
+        "Telephone": "1212123531",
+        "Rating": "4.5",
+        "Email": "",
+        "Website": "https://www.coffeetalesjq.com",
+        "Latitude": "52.48739860340512",
+        "Longitude": "1.9099910961938442",
+        "Image": "CoffeeTales.jpg",
+        "Venue": false,
+        "OpeningHours": [
+          {
+            "Day": "Monday",
+            "Open": "8:00 am",
+            "Close": "5:00 pm"
+          },
+          {
+            "Day": "Tuesday",
+            "Open": "8:00 am",
+            "Close": "5:00 pm"
+          },
+          {
+            "Day": "Wednesday",
+            "Open": "8:00 am",
+            "Close": "5:00 pm"
+          },
+          {
+            "Day": "Thursday",
+            "Open": "8:00 am",
+            "Close": "5:00 pm"
+          },
+          {
+            "Day": "Friday",
+            "Open": "8:00 am",
+            "Close": "5:00 pm"
+          },
+          {
+            "Day": "Saturday",
+            "Open": "9:00 am",
+            "Close": "4:30 pm"
+          },
+          {
+            "Day": "Sunday",
+            "Open": "9:00 am",
+            "Close": "4:30 pm"
+          }
+        ]
+      },
+      {
+        "Type": "Cafe",
+        "Name": "Damascena Coffee House",
+        "Address": "103 High Street Birmingham B17 9NR",
+        "Telephone": "1214277798",
+        "Rating": "4.5",
+        "Email": "",
+        "Website": "https://www.damascena.co.uk",
+        "Latitude": "",
+        "Longitude": "",
+        "Venue": false,
+        "Image": "DamascenaCoffeeHouse.jpg",
+        "OpeningHours": [
+          {
+            "Day": "Monday",
+            "Open": "8:00 am",
+            "Close": "21:00 pm"
+          },
+          {
+            "Day": "Tuesday",
+            "Open": "8:00 am",
+            "Close": "21:00 pm"
+          },
+          {
+            "Day": "Wednesday",
+            "Open": "8:00 am",
+            "Close": "21:00 pm"
+          },
+          {
+            "Day": "Thursday",
+            "Open": "8:00 am",
+            "Close": "21:00 pm"
+          },
+          {
+            "Day": "Friday",
+            "Open": "8:00 am",
+            "Close": "22:00 pm"
+          },
+          {
+            "Day": "Saturday",
+            "Open": "8:00 am",
+            "Close": "22:00 pm"
+          },
+          {
+            "Day": "Sunday",
+            "Open": "8:00 am",
+            "Close": "18:00 pm"
+          }
+        ]
+      },
+      {
+        "Type": "Cafe",
+        "Name": "Coffee Time",
+        "Address": "Priory Square Central Square Kiosk, Clock Tower, Birmingham B4 7LG England",
+        "Telephone": "7919848980",
+        "Rating": "3.9",
+        "Email": "",
+        "Website": "https://www.facebook.com/CoffeeTimeBirmingham/",
+        "Latitude": "52.481106829221055",
+        "Longitude": "-1.8938116930583702",
+        "Venue": false,
+        "Image": "CoffeeTime.jpg",
+        "OpeningHours": [
+          {
+            "Day": "Monday",
+            "Open": "7:00 am",
+            "Close": "6:00 pm"
+          },
+          {
+            "Day": "Tuesday",
+            "Open": "7:00 am",
+            "Close": "6:00 pm"
+          },
+          {
+            "Day": "Wednesday",
+            "Open": "7:00 am",
+            "Close": "6:00 pm"
+          },
+          {
+            "Day": "Thursday",
+            "Open": "7:00 am",
+            "Close": "6:00 pm"
+          },
+          {
+            "Day": "Friday",
+            "Open": "7:00 am",
+            "Close": "6:00 pm"
+          },
+          {
+            "Day": "Saturday",
+            "Open": "8:30 am",
+            "Close": "6:30 pm"
+          },
+          {
+            "Day": "Sunday",
+            "Open": "9:00 am",
+            "Close": "7:00 pm"
+          }
+        ]
+      },
+      {
+        "Type": "Cafe",
+        "Name": "Boston Tea Party Harborne",
+        "Address": "",
+        "Telephone": "121 427 8722",
+        "Rating": "4.0",
+        "Email": "",
+        "Website": "https://bostonteaparty.co.uk",
+        "Latitude": "52.45965353335525",
+        "Longitude": "-1.946378208403052",
+        "Venue": false,
+        "Image": "BostonTeaPartyHarborne.jpg",
+        "OpeningHours": [
+          {
+            "Day": "Monday",
+            "Open": "8:00 am",
+            "Close": "6:00 pm"
+          },
+          {
+            "Day": "Tuesday",
+            "Open": "8:00 am",
+            "Close": "6:00 pm"
+          },
+          {
+            "Day": "Wednesday",
+            "Open": "8:00 am",
+            "Close": "6:00 pm"
+          },
+          {
+            "Day": "Thursday",
+            "Open": "8:00 am",
+            "Close": "6:00 pm"
+          },
+          {
+            "Day": "Friday",
+            "Open": "8:00 am",
+            "Close": "6:00 pm"
+          },
+          {
+            "Day": "Saturday",
+            "Open": "8:00 am",
+            "Close": "6:00 pm"
+          },
+          {
+            "Day": "Sunday",
+            "Open": "9:00 am",
+            "Close": "5:00 pm"
+          }
+        ]
+      }
+    ],
+  
+    "Shops": [
+      {
+        "Type": "Shop",
+        "Name": "Oriental Supermarket",
+        "Address": "100 Holloway Head, Birmingham B1 1NB, United Kingdom",
+        "Telephone": "1216666131",
+        "Rating": "4.0",
+        "Email": "",
+        "Website": "https://www.b1mart.co.uk/index.php",
+        "Latitude": "",
+        "Longitude": "",
+        "Venue": false,
+        "Image": "OrientalSupermarket.jpg",
+        "OpeningHours": [
+          {
+            "Day": "Monday",
+            "Open": "10:00 am",
+            "Close": "9:00 pm"
+          },
+          {
+            "Day": "Tuesday",
+            "Open": "10:00 am",
+            "Close": "9:00 pm"
+          },
+          {
+            "Day": "Wednesday",
+            "Open": "10:00 am",
+            "Close": "9:00 pm"
+          },
+          {
+            "Day": "Thursday",
+            "Open": "10:00 am",
+            "Close": "9:00 pm"
+          },
+          {
+            "Day": "Friday",
+            "Open": "10:00 am",
+            "Close": "9:00 pm"
+          },
+          {
+            "Day": "Saturday",
+            "Open": "10:00 am",
+            "Close": "9:00 pm"
+          },
+          {
+            "Day": "Sunday",
+            "Open": "10:00 am",
+            "Close": "9:00 pm"
+          }
+        ]
+      },
+      {
+        "Type": "Shop",
+        "Name": "Tesco Express",
+        "Address": "165 Granville St, Birmingham B1 1JW, United Kingdom",
+        "Telephone": "443456757103",
+        "Rating": "3.9",
+        "Email": "",
+        "Website": "https://www.tesco.com",
+        "Latitude": "",
+        "Longitude": "",
+        "Venue": false,
+        "Image": "TescoExpress.jpg",
+        "OpeningHours": [
+          {
+            "Day": "Monday",
+            "Open": "6:00 am",
+            "Close": "12:00 am"
+          },
+          {
+            "Day": "Tuesday",
+            "Open": "6:00 am",
+            "Close": "12:00 am"
+          },
+          {
+            "Day": "Wednesday",
+            "Open": "6:00 am",
+            "Close": "12:00 am"
+          },
+          {
+            "Day": "Thursday",
+            "Open": "6:00 am",
+            "Close": "12:00 am"
+          },
+          {
+            "Day": "Friday",
+            "Open": "6:00 am",
+            "Close": "12:00 am"
+          },
+          {
+            "Day": "Saturday",
+            "Open": "6:00 am",
+            "Close": "12:00 am"
+          },
+          {
+            "Day": "Sunday",
+            "Open": "6:00 am",
+            "Close": "12:00 am"
+          }
+        ]
+      },
+      {
+        "Type": "Shop",
+        "Name": "Urban Outfitters",
+        "Address": "5-7 Corporation St, Birmingham B2 4LP, United Kingdom",
+        "Telephone": "441216332920",
+        "Rating": "4.1",
+        "Email": "",
+        "Website": "https://www.urbanoutfitters.com/en-gb/",
+        "Latitude": "52.47954071355511",
+        "Longitude": "-1.8978382984583668",
+        "Venue": false,
+        "Image": "UrbanOutfitters.jpg",
+        "OpeningHours": [
+          {
+            "Day": "Monday",
+            "Open": "10:00 am",
+            "Close": "7:00 pm"
+          },
+          {
+            "Day": "Tuesday",
+            "Open": "10:00 am",
+            "Close": "7:00 pm"
+          },
+          {
+            "Day": "Wednesday",
+            "Open": "10:00 am",
+            "Close": "7:00 pm"
+          },
+          {
+            "Day": "Thursday",
+            "Open": "10:00 am",
+            "Close": "7:00 pm"
+          },
+          {
+            "Day": "Friday",
+            "Open": "10:00 am",
+            "Close": "7:00 pm"
+          },
+          {
+            "Day": "Saturday",
+            "Open": "10:00 am",
+            "Close": "7:00 pm"
+          },
+          {
+            "Day": "Sunday",
+            "Open": "Closed",
+            "Close": "Closed"
+          }
+        ]
+      },
+      {
+        "Type": "Shop",
+        "Name": "Great Western Arcade",
+        "Address": "Colmore Row, Birmingham B2 5HU, United Kingdom",
+        "Telephone": "441212365417",
+        "Rating": "4.3",
+        "Email": "",
+        "Website": "https://www.greatwesternarcade.co.uk",
+        "Latitude": "52.482242900624435",
+        "Longitude": "-1.8972555702261331",
+        "Venue": false,
+        "Image": "GreatWesternArcade.jpg",
+        "OpeningHours": [
+          {
+            "Day": "Monday",
+            "Open": "6:30 am",
+            "Close": "10:00 pm"
+          },
+          {
+            "Day": "Tuesday",
+            "Open": "6:30 am",
+            "Close": "10:00 pm"
+          },
+          {
+            "Day": "Wednesday",
+            "Open": "6:30 am",
+            "Close": "10:00 pm"
+          },
+          {
+            "Day": "Thursday",
+            "Open": "6:30 am",
+            "Close": "10:00 pm"
+          },
+          {
+            "Day": "Friday",
+            "Open": "6:30 am",
+            "Close": "10:00 pm"
+          },
+          {
+            "Day": "Saturday",
+            "Open": "6:30 am",
+            "Close": "10:00 pm"
+          },
+          {
+            "Day": "Sunday",
+            "Open": "10:30 am",
+            "Close": "10:00 pm"
+          }
+        ]
+      }
+    ],
+  
+    "Misc": [
+      {
+        "Type": "Museum",
+        "Name": "Thinktank Birmingham Science Museum",
+        "Address": "Millennium Point, Curzon St, Birmingham B4 7XG, United Kingdom",
+        "Telephone": "",
+        "Rating": "",
+        "Email": "",
+        "Website": "",
+        "Latitude": "",
+        "Longitude": "",
+        "Venue": false,
+        "Image": "thinktank.jpg",
+        "OpeningHours": [
+          {
+            "Day": "Monday",
+            "Open": "10:00 am",
+            "Close": "5:00 pm"
+          },
+          {
+            "Day": "Tuesday",
+            "Open": "10:00 am",
+            "Close": "5:00 pm"
+          },
+          {
+            "Day": "Wednesday",
+            "Open": "10:00 am",
+            "Close": "5:00 pm"
+          },
+          {
+            "Day": "Thursday",
+            "Open": "10:00 am",
+            "Close": "5:00 pm"
+          },
+          {
+            "Day": "Friday",
+            "Open": "10:00 am",
+            "Close": "5:00 pm"
+          },
+          {
+            "Day": "Saturday",
+            "Open": "10:00 am",
+            "Close": "5:00 pm"
+          },
+          {
+            "Day": "Sunday",
+            "Open": "10:00 am",
+            "Close": "5:00 pm"
+          }
+        ]
+      },
+      {
+        "Type": "Art Gallery",
+        "Name": "Ikon Gallery",
+        "Address": "1 Oozells St, Birmingham B1 2HS, United Kingdom",
+        "Telephone": "441212480708",
+        "Rating": "4.4",
+        "Email": "",
+        "Website": "https://www.ikon-gallery.org",
+        "Latitude": "52.4778974880293",
+        "Longitude": "-1.9123333558568747",
+        "Venue": false,
+        "Image": "IkonGallery.jpg",
+        "OpeningHours": [
+          {
+            "Day": "Monday",
+            "Open": "Closed",
+            "Close": "Closed"
+          },
+          {
+            "Day": "Tuesday",
+            "Open": "11:00 am",
+            "Close": "5:00 pm"
+          },
+          {
+            "Day": "Wednesday",
+            "Open": "11:00 am",
+            "Close": "5:00 pm"
+          },
+          {
+            "Day": "Thursday",
+            "Open": "11:00 am",
+            "Close": "5:00 pm"
+          },
+          {
+            "Day": "Friday",
+            "Open": "11:00 am",
+            "Close": "5:00 pm"
+          },
+          {
+            "Day": "Saturday",
+            "Open": "11:00 am",
+            "Close": "5:00 pm"
+          },
+          {
+            "Day": "Sunday",
+            "Open": "11:00 am",
+            "Close": "5:00 pm"
+          }
+        ]
+      },
+      {
+        "Type": "Amusement Park",
+        "Name": "LEGOLAND Discovery Centre & LEGO Store Birmingham",
+        "Address": "LEGOLAND Discovery Centre, Arena, King Edwards Rd, Birmingham B1 2AA, United Kingdom",
+        "Telephone": "+441217942386",
+        "Rating": "4.1",
+        "Email": "",
+        "Website": "https://www.legolanddiscoverycentre.com/birmingham/",
+        "Latitude": "",
+        "Longitude": "",
+        "Venue": false,
+        "Image": "Legoland.jpg",
+        "OpeningHours": [
+          {
+            "Day": "Monday",
+            "Open": "10:30 am",
+            "Close": "2:30 pm"
+          },
+          {
+            "Day": "Tuesday",
+            "Open": "10:30 am",
+            "Close": "2:30 pm"
+          },
+          {
+            "Day": "Wednesday",
+            "Open": "10:30 am",
+            "Close": "2:30 pm"
+          },
+          {
+            "Day": "Thursday",
+            "Open": "10:30 am",
+            "Close": "2:30 pm"
+          },
+          {
+            "Day": "Friday",
+            "Open": "10:30 am",
+            "Close": "2:30 pm"
+          },
+          {
+            "Day": "Saturday",
+            "Open": "9:30 am",
+            "Close": "5:30 pm"
+          },
+          {
+            "Day": "Sunday",
+            "Open": "9:30 am",
+            "Close": "3:30 pm"
+          }
+        ]
+      },
+      {
+        "Type": "Cinema",
+        "Name": "Cineworld Cinema - Birmingham Broad Street",
+        "Address": "181 Broad St, Birmingham B15 1DA, United Kingdom",
+        "Telephone": "443303334444",
+        "Rating": "4.4",
+        "Email": "",
+        "Website": "https://www.cineworld.co.uk/#/cinema/birmingham-broad-street",
+        "Latitude": "52.47500912574333",
+        "Longitude": "-1.9160593872120057",
+        "Venue": false,
+        "Image": "cineworld.jpg",
+        "OpeningHours": [
+          {
+            "Day": "Monday",
+            "Open": "9:00 am",
+            "Close": "11:30 pm"
+          },
+          {
+            "Day": "Tuesday",
+            "Open": "9:00 am",
+            "Close": "11:30 pm"
+          },
+          {
+            "Day": "Wednesday",
+            "Open": "9:00 am",
+            "Close": "11:30 pm"
+          },
+          {
+            "Day": "Thursday",
+            "Open": "9:00 am",
+            "Close": "11:30 pm"
+          },
+          {
+            "Day": "Friday",
+            "Open": "9:00 am",
+            "Close": "11:30 pm"
+          },
+          {
+            "Day": "Saturday",
+            "Open": "9:00 am",
+            "Close": "11:30 pm"
+          },
+          {
+            "Day": "Sunday",
+            "Open": "9:00 am",
+            "Close": "11:30 pm"
+          }
+        ]
+      },
+      {
+        "Type": "Night Club",
+        "Name": "Ark Tavern",
+        "Address": "Ark Tavern, Chesterfield Rd, Brimington, Chesterfield S43 1AD, United Kingdom",
+        "Telephone": "441246769701",
+        "Rating": "4.3",
+        "Email": "",
+        "Website": "https://www.facebook.com/TheArkTavernBrimington",
+        "Latitude": "53.25757389954431",
+        "Longitude": "-1.3970363015153435",
+        "Venue": false,
+        "Image": "ArkTavern.jpg",
+        "OpeningHours": [
+          {
+            "Day": "Monday",
+            "Open": "4:00 pm",
+            "Close": "11:00 pm"
+          },
+          {
+            "Day": "Tuesday",
+            "Open": "4:00 pm",
+            "Close": "12:00 am"
+          },
+          {
+            "Day": "Wednesday",
+            "Open": "4:00 pm",
+            "Close": "11:00 pm"
+          },
+          {
+            "Day": "Thursday",
+            "Open": "4:00 pm",
+            "Close": "11:00 pm"
+          },
+          {
+            "Day": "Friday",
+            "Open": "4:00 pm",
+            "Close": "12:00 am"
+          },
+          {
+            "Day": "Saturday",
+            "Open": "12:00 pm",
+            "Close": "12:00 am"
+          },
+          {
+            "Day": "Sunday",
+            "Open": "12:00 pm",
+            "Close": "11:00 pm"
+          }
+        ]
+      }
+    ]
+  }

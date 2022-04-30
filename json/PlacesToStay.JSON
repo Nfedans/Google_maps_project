@@ -1,0 +1,261 @@
+{
+    "Hotels": [
+      {
+        "Type": "Hotel",
+        "Name": "Aloft Birmingham Eastside",
+        "Address": "4 Woodcock St. Birmingham B7 4BL , UK",
+        "Image": "Aloft.jpg",
+        "Rating": 4.4,
+        "PricePerNight": 210,
+        "Latitude": 52.285851,
+        "Longitude": -1.8852174,
+        "Website": "https://aloftbirminghamsohosquare.reservationstays.com/requests/_c_HfZFLCh9YwBTfRhTdPA/hotels/EW2dNbKj",
+        "Venue": false,
+        "Contact": [
+          {
+            "Phone": 441218206000,
+            "Gmail": ""
+          }
+        ]
+      },
+      {
+        "Type": "Hotel",
+        "Name": "Clayton Hotel Birmingham",
+        "Address": "Albert St, Birmingham B5 5JE, United Kingdom",
+        "Image": "Clayton.jpg",
+        "Rating": 4.5,
+        "PricePerNight": 166,
+        "Latitude": 52.481025849999995,
+        "Longitude": -1.8904575824492786,
+        "Website": "https://www.claytonhotelbirmingham.com",
+        "Venue": false,
+        "Contact": [
+          {
+            "Phone": 441217263200,
+            "Gmail": "info.birmingham@claytonhotels.com"
+          }
+        ]
+      },
+      {
+        "Type": "Hotel",
+        "Name": "Ibis Birmingham Bordesley Circle",
+        "Address": "1 Bordesley Park Rd, Bordesley, Birmingham B10 0PD, United Kingdom",
+        "Image": "Ibis.jpg",
+        "Rating": 3.9,
+        "PricePerNight": 73,
+        "Latitude": 52.475009650000004,
+        "Longitude": -1.8964580720149278,
+        "Website": "https://all.accor.com/hotel/2178/index.en.shtml?utm_campaign=seo+maps&utm_medium=seo+maps&utm_source=google+Maps",
+        "Venue": false,
+        "Contact": [
+          {
+            "Phone": 441215062600,
+            "Gmail": ""
+          }
+        ]
+      },
+      {
+        "Type": "Hotel",
+        "Name": "Hilton Birmingham Metropole Hotel",
+        "Address": "National Exhibition Centre, Pendigo Way, Marston Green, Birmingham B40 1PP, United Kingdom",
+        "Image": "Hilton.jpg",
+        "Rating": 4,
+        "PricePerNight": 197,
+        "Latitude": 52.453843199999994,
+        "Longitude": -1.7175496552307064,
+        "Website": "https://www.hilton.com/en/hotels/bhxmetw-hilton-birmingham-metropole/",
+        "Venue": false,
+        "Contact": [
+          {
+            "Phone": 441217804242,
+            "Gmail": "BHXME_GM@hilton.com"
+          }
+        ]
+      },
+      {
+        "Type": "Hotel",
+        "Name": "Adagio Birmingham City Centre",
+        "Address": "131 Digbeth, Birmingham B5 6DR, United Kingdom",
+        "Image": "Adagio.jpg",
+        "Rating": 4.6,
+        "PricePerNight": 105,
+        "Latitude": 52.4764818,
+        "Longitude": -1.8980109,
+        "Website": "https://www.adagio.com/en/hotels/birmingham-city-centre/",
+        "Venue": false,
+        "Contact": [
+          {
+            "Phone": 441213990500,
+            "Gmail": ""
+          }
+        ]
+      }
+    ],
+  
+    "Inns": [
+      {
+        "Type": "Inn",
+        "Name": "The Moseley Arms",
+        "Address": "105 Ravenhurst St, Birmingham B12 0HB, United Kingdom",
+        "Image": "Moseley.jpg",
+        "Rating": 4.0,
+        "PricePerNight": 72,
+        "Latitude": 52.47072735,
+        "Longitude": -1.8814480213075044,
+        "Website": "http://themoseleyarms.co.uk",
+        "Venue": false,
+        "Contact": [
+          {
+            "Phone": 1217668467,
+            "Gmail": "enquiries@themoseleyarms.co.uk"
+          }
+        ]
+      },
+      {
+        "Type": "Inn",
+        "Name": "Cuttle Bridge Inn",
+        "Address": "Kingsbury Rd, Birmingham, Minworth, Sutton Coldfield B76 9DP, United Kingdom",
+        "Image": "Cuttle.jpg",
+        "Rating": 4.1,
+        "PricePerNight": 61,
+        "Latitude": 52.531820800000006,
+        "Longitude": -1.753492302517706,
+        "Website": "https://cuttlebridgeinn.co.uk",
+        "Venue": false,
+        "Contact": [
+          {
+            "Phone": 1675475626,
+            "Gmail": "events@cuttlebridgeinn.co.uk"
+          }
+        ]
+      },
+      {
+        "Type": "Inn",
+        "Name": "The Aston Inn",
+        "Address": "92 Grosvenor Rd, Aston, Birmingham B6 7NA, United Kingdom",
+        "Image": "Aston.jpg",
+        "Rating": 5,
+        "PricePerNight": 54,
+        "Latitude": 52.50697,
+        "Longitude": -1.87559,
+        "Website": "http://theastoninn.co.uk",
+        "Venue": false,
+        "Contact": [
+          {
+            "Phone": 1213270472,
+            "Gmail": ""
+          }
+        ]
+      },
+      {
+        "Type": "Inn",
+        "Name": "Greenland's Inn",
+        "Address": "105 Longbridge Ln, Longbridge, Birmingham B31 4LF, United Kingdom",
+        "Image": "Greenland's.jpg",
+        "Rating": 4.3,
+        "PricePerNight": 54,
+        "Latitude": 52.29562,
+        "Longitude": -1.98119,
+        "Website": "http://greenlandsinn.co.uk",
+        "Venue": false,
+        "Contact": [
+          {
+            "Phone": 1214751564,
+            "Gmail": ""
+          }
+        ]
+      },
+      {
+        "Type": "Inn",
+        "Name": "Jurys Inn Birmingham",
+        "Address": "245 Broad Street, Birmingham, B1 2HQ, United Kingdom",
+        "Image": "Jurys.jpg",
+        "Rating": 1,
+        "PricePerNight": 91.50,
+        "Latitude": 52.4766066,
+        "Longitude": -1.9112643230019302,
+        "Website": "https://www.jurysinns.com/brands/jurysinns",
+        "Venue": false,
+        "Contact": [
+          {
+            "Phone": 441216069000,
+            "Gmail": "jurysinnbirmingham@jurysinns.com"
+          }
+        ]
+      }
+    ],
+    "B&B": [
+      {
+        "Type": "B&B",
+        "Name": "The Blue Piano Guesthouse",
+        "Address": "26 Harborne Rd, Birmingham B15 3AA, United Kingdom",
+        "Image": "BluePiano.jpg",
+        "Rating": 4.4,
+        "PricePerNight": 90,
+        "Latitude": 52.46210915,
+        "Longitude": -1.9433673999999925,
+        "Website": "http://www.thebluepianoguesthouse.co.uk",
+        "Venue": false,
+        "Contact": [
+          {
+            "Phone": 1214546877,
+            "Gmail": "bookings@thebluepiano.co.uk "
+          }
+        ]
+      },
+      {
+        "Type": "B&B",
+        "Name": "Elmdon Lodge",
+        "Address": "22 Elmdon Rd, Acocks Green, Birmingham B27 6LH, United Kingdom",
+        "Image": "Elmdon.jpg",
+        "Rating": 5,
+        "PricePerNight": 107,
+        "Latitude": 1,
+        "Longitude": 1,
+        "Website": "http://www.elmdonlodge.com",
+        "Venue": false,
+        "Contact": [
+          {
+            "Phone": 441217061088,
+            "Gmail": "elmdonlodge@googlemail.com"
+          }
+        ]
+      },
+      {
+        "Type": "B&B",
+        "Name": "Hagley Lodge",
+        "Address": "409 Hagley Rd, Birmingham B17 8BP, United Kingdom",
+        "Image": "Hagley.jpg",
+        "Rating": 2,
+        "PricePerNight": 48,
+        "Latitude": 52.47348155757115,
+        "Longitude": -1.9614833593368532,
+        "Website": "",
+        "Venue": false,
+        "Contact": [
+          {
+            "Phone": "",
+            "Gmail": ""
+          }
+        ]
+      },
+      {
+        "Type": "B&B",
+        "Name": "Shanahans Bed and Breakfast",
+        "Address": "Shanahans 127, 129 Rocky Ln, Birmingham B7 5EP, United Kingdom",
+        "Image": "Shanahans.jpg",
+        "Rating": 3.5,
+        "PricePerNight": 50,
+        "Latitude": 52.54552395,
+        "Longitude": -1.8866192499999999,
+        "Website": "",
+        "Venue": false,
+        "Contact": [
+          {
+            "Phone": "",
+            "Gmail": ""
+          }
+        ]
+      }
+    ]
+  }

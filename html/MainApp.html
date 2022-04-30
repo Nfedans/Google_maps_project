@@ -7,14 +7,42 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
         <link rel="stylesheet" href="../css/StylePrototype.css">
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+       
+        
         <link rel="icon" type="image/x-icon" href="../images/favicon.png">
-        <script src=https://maps.googleapis.com/maps/api/js?key=AIzaSyD7cVo_0k4JysfKdOlpkTV8Z-MGi9wV2KA></script>  
+        <script src=https://maps.googleapis.com/maps/api/js?key=AIzaSyB2_Bh1nu6hEpJhgtdGkuVxiWJJcpUqk20&callback=diaplayMap&libraries=localContext&v=beta&callback=displayMap async></script> 
         <script src="../javascript/Main.js"></script>  
     </head> 
 
     <body>
-        <div id=map></div>  
+        <div id="plannerContainer">
+            <h1>Route Planner</h1>
+            <form id="routes">
+            <center>
+                <input type="text" id="start" class="textBox" placeholder="Current Location"><br>
+                <input type="text" id="end" class="textBox" placeholder="Destination"><br>
+            </center>
+            </form>
+            <h3>Travel Mode</h3>
+            <select id="travelMode" onChange="calculateRoute()">
+                <option value="DRIVING">Driving</option>
+                <option value="WALKING">Walking</option>
+                <option value="TRANSIT">Transit</option>
+                <option value="BICYCLING">Cycling</option>
+            </select><br>
+            <input type=submit value="Submit" onclick="calculateRoute()"><br><br><br>
+            </div>
+            <div id=map></div>  
         <div id=menu>
+            <center>
+                <h2>Directions</h2>
+            <div id="directions"></div>
+            </center>
+            <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+            <script src="https://cdn.jsdelivr.net/npm/popper.js@1.12.9/dist/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+            <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
         </div>       
     </body>
 </html>

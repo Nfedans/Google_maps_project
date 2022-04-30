@@ -8,12 +8,288 @@
     "latitude": 52.530936999999994,
     "longitude": -1.9064514900481782,
     "wheelchair": true,
+    "venue": true,
     "events": [
       {
-        "Name": "",
-        "Date": "",
-        "Time": "",
-        "Description": ""
+        "name": "Opening and Closing Ceremonies",
+        "dateTimeStart": "2022-07-28T19:00:00.000+01:00",
+        "dateTimeEnd": "2022-07-28T22:00:00.000+01:00",
+        "subEvents": [
+          "Opening Ceremony"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Athletics and Para Athletics",
+        "dateTimeStart": "2022-08-02T10:00:00.000+01:00",
+        "dateTimeEnd": "2022-08-02T13:30:00.000+01:00",
+        "subEvents": [
+          "Men's Long Jump Qualifying Rounds - A & B",
+          "Women's Heptathlon 100m Hurdles",
+          "Men's 100m Round 1",
+          "Men's Discus Throw Qualifying Rounds - A",
+          "Women's Heptathlon High Jump - A & B",
+          "Women's 800m Round 1",
+          "Men's Discus Throw Qualifying Rounds - B",
+          "Women's 1500m T53/54 Round 1"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Athletics and Para Athletics",
+        "dateTimeStart": "2022-08-02T18:30:00.000+01:00",
+        "dateTimeEnd": "2022-08-02T22:00:00.000+01:00",
+        "subEvents": [
+          "Women's Heptathlon Shot Put",
+          "Women's Pole Vault Final",
+          "Men's 400m Hurdles Round 1",
+          "Men's High Jump Qualifying Rounds - A & B",
+          "Men's 100m T45-47 Final",
+          "Men's 110m Hurdles Round 1",
+          "Men's 100m T45-47 Medal Ceremony",
+          "Men's 10000m Final",
+          "Women's Discus Throw Final",
+          "Women's Heptathlon 200m",
+          "Women's 100m T37/38 Final",
+          "Men's 10000m Medal Ceremony",
+          "Women's 100m T33/34 Final"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Athletics and Para Athletics",
+        "dateTimeStart": "2022-08-03T10:00:00.000+01:00",
+        "dateTimeEnd": "2022-08-03T13:30:00.000+01:00",
+        "subEvents": [
+          "Men's 1500m T53/54 Round 1",
+          "Women's Heptathlon Long Jump",
+          "Women's 400m Round 1",
+          "Men's Shot Put Qualifying Rounds - A & B",
+          "Men's 800m Round 1",
+          "Men's 100m T11/12 Round 1",
+          "Women's Triple Jump Qualifying Rounds - A & B",
+          "Men's 400m Round 1"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Athletics and Para Athletics",
+        "dateTimeStart": "2022-08-03T18:30:00.000+01:00",
+        "dateTimeEnd": "2022-08-03T22:00:00.000+01:00",
+        "subEvents": [
+          "Women's Pole Vault Medal Ceremony",
+          "Women's Discus Throw Medal Ceremony",
+          "Men's High Jump Final",
+          "Women's Heptathlon Javelin Throw",
+          "Women's 100m Semi-finals",
+          "Women's 100m T37/38 Medal Ceremony",
+          "Men's 100m Semi-finals",
+          "Women's 100m T33/34 Medal Ceremony",
+          "Women's 10000m Final",
+          "Women's Shot Put Final",
+          "Men's Discus Throw F42-44/F61-64 Final",
+          "Women's Heptathlon 800m",
+          "Men's 100m T37/38 Final",
+          "Women's 10000m Medal Ceremony",
+          "Men's High Jump Medal Ceremony",
+          "Women's 100m Final",
+          "Men's 100m Final"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Athletics and Para Athletics",
+        "dateTimeStart": "2022-08-04T10:00:00.000+01:00",
+        "dateTimeEnd": "2022-08-04T13:30:00.000+01:00",
+        "subEvents": [
+          "Men's Hammer Throw Qualifying Rounds",
+          "Men's Decathlon 100m",
+          "Women's 200m Round 1",
+          "Men's Decathlon Long Jump - A & B",
+          "Women's High Jump Qualifying Rounds - A & B",
+          "Men's 1500m Round 1",
+          "Men's 200m Round 1",
+          "Men's Decathlon Shot Put"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Athletics and Para Athletics",
+        "dateTimeStart": "2022-08-04T18:30:00.000+01:00",
+        "dateTimeEnd": "2022-08-04T22:00:00.000+01:00",
+        "subEvents": [
+          "Women's Heptathlon Medal Ceremony",
+          "Women's Shot Put Medal Ceremony",
+          "Men's Discus Throw F42-44/F61-64 Medal Ceremony",
+          "Men's 100m T37/38 Medal Ceremony",
+          "Women's 100m Medal Ceremony",
+          "Women's Discus Throw F42-44/F61-64 Final",
+          "Men's Decathlon High Jump - A & B",
+          "Women's 400m Hurdles Round 1",
+          "Men's 100m Medal Ceremony",
+          "Men's Long Jump Final",
+          "Men's 400m Hurdles Semi-finals",
+          "Women's 800m Semi-finals",
+          "Men's 100m T11/12 Final",
+          "Men's Discus Throw Final",
+          "Women's Discuss Throw F42-44/F61-64 Medal Ceremony",
+          "Men's Decathlon 400m",
+          "Men's Long Jump Medal Ceremony",
+          "Men's 100m T11/12 Medal Ceremony",
+          "Women's 1500m T53/54 Final",
+          "Men's 110m Hurdles Final"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Athletics and Para Athletics",
+        "dateTimeStart": "2022-08-05T10:00:00.000+01:00",
+        "dateTimeEnd": "2022-08-05T15:00:00.000+01:00",
+        "subEvents": [
+          "Women's Long Jump Qualifying Rounds - A & B",
+          "Men's Decathlon 110m Hurdles",
+          "Women's 100m Hurdles Round 1",
+          "Men's Decathlon Discus Throw",
+          "Women's 1500m Round 1",
+          "Women's 4 x 400m Relay Round 1",
+          "Men's 4 x 400m Relay Round 1",
+          "Men's Javelin Throw Qualifying Rounds - A",
+          "Men's Decathlon Pole Vault - A & B",
+          "Men's Javelin Throw Qualifying Rounds - B"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Athletics and Para Athletics",
+        "dateTimeStart": "2022-08-05T18:30:00.000+01:00",
+        "dateTimeEnd": "2022-08-05T22:00:00.000+01:00",
+        "subEvents": [
+          "Men's Discus Throw Medal Ceremony",
+          "Women's 1500m T53/54 Medal Ceremony",
+          "Men's 110m Hurdles Medal Ceremony",
+          "Men's Shot Put Final",
+          "Men's Triple Jump Qualifying Rounds - A & B",
+          "Men's 200m Semi-finals",
+          "Women's 400m Semi-finals",
+          "Men's Decathlon Javelin Throw",
+          "Men's 1500m T53/54 Final",
+          "Women's 200m Semi-finals",
+          "Women's Triple Jump Final",
+          "Men's 800m Semi-finals",
+          "Men's Shot Put Medal Ceremony",
+          "Men's 400m Semi-finals",
+          "Men's Decathlon 1500m",
+          "Men's 1500m T53/54 Medal Ceremony",
+          "Women's 3000m Steeplechase Final"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Athletics and Para Athletics",
+        "dateTimeStart": "2022-08-06T10:00:00.000+01:00",
+        "dateTimeEnd": "2022-08-06T13:15:00.000+01:00",
+        "subEvents": [
+          "Women's Triple Jump Medal Ceremony",
+          "Men's Decathlon Medal Ceremony",
+          "Women's 3000m Steeplechase Medal Ceremony",
+          "Women's High Jump Final",
+          "4 x 100m Universal Relay Round 1",
+          "Women's Shot Put F55-57 Final",
+          "Women's 10km Walk Final",
+          "Men's Hammer Throw Final",
+          "Men's 3000m Steeplechase Final",
+          "Women's 4 x 100m Relay Round 1",
+          "Women's 10km Medal Ceremony",
+          "Men's 3000m Steeplechase Medal Ceremony",
+          "Men's 4 x 100m Relay Round 1",
+          "Men's 1500m Final"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Athletics and Para Athletics",
+        "dateTimeStart": "2022-08-06T18:30:00.000+01:00",
+        "dateTimeEnd": "2022-08-06T21:45:00.000+01:00",
+        "subEvents": [
+          "Women's High Jump Medal Ceremony",
+          "Women's Shot Put F55-57 Medal Ceremony",
+          "Men's Hammer Throw Medal Ceremony",
+          "Men's 1500m Medal Ceremony",
+          "Women's Hammer Throw Final",
+          "Men's Pole Vault Final",
+          "Women's 400m Hurdles Final",
+          "Women's 800m Final",
+          "Men's 5000m Final",
+          "Women's 400m Hurdles Medal Ceremony",
+          "Men's 400m Hurdles Final",
+          "Women's 800m Medal Ceremony",
+          "Women's Hammer Throw Medal Ceremony",
+          "Women's 200m Final",
+          "Men's 5000m Medal Ceremony",
+          "Men's 400m Hurdles Ceremony",
+          "Men's 200m Final"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Athletics and Para Athletics",
+        "dateTimeStart": "2022-08-07T10:00:00.000+01:00",
+        "dateTimeEnd": "2022-08-07T13:15:00.000+01:00",
+        "subEvents": [
+          "Women's 200m Medal Ceremony",
+          "Men's 200m Medal Ceremony",
+          "Men's Pole Vault Medal Ceremony",
+          "Men's Triple Jump Final",
+          "Women's 100m Hurdles Final",
+          "Men's 400m Final",
+          "Women's 400m Final",
+          "Women's 100m Hurdles Medal Ceremony",
+          "Men's 10km Walk Final",
+          "Women's Javelin Throw Final",
+          "Men's 400m Medal Ceremony",
+          "Women's 400m Medal Ceremony",
+          "Women's 4 x 100m Relay Final",
+          "Men's Triple Jump Medal Ceremony",
+          "Men's 4 x 100m Relay Final"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Athletics and Para Athletics",
+        "dateTimeStart": "2022-08-07T18:30:00.000+01:00",
+        "dateTimeEnd": "2022-08-07T21:30:00.000+01:00",
+        "subEvents": [
+          "Women's 4 x 100m Medal Ceremony",
+          "Men's 4 x 100m Relay Medal Ceremony",
+          "Men's 10km Walk Medal Ceremony",
+          "Women's Long Jump Final",
+          "4 x 100m Universal Relay Final",
+          "Women's Javelin Throw Medal Ceremony",
+          "Women's 1500m Final",
+          "4 x 100m Universal Relay Medal Ceremony",
+          "Men's Javelin Throw Final",
+          "Men's 800m Final",
+          "Women's 1500m Medal Ceremony",
+          "Women's 5000m Final",
+          "Men's 800m Medal Ceremony",
+          "Women's 4 x 400m Relay Final",
+          "Women's Long Jump Medal Ceremony",
+          "Women's 5000m Medal Ceremony",
+          "Men's 4 x 400m Relay Final",
+          "Men's Javelin Throw Medal Ceremony",
+          "Women's 4 x 400m Relay Medal Ceremony",
+          "Men's 4 x 400m Relay Medal Ceremony"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Opening and Closing Ceremonies",
+        "dateTimeStart": "2022-08-08T20:00:00.000+01:00",
+        "dateTimeEnd": "2022-08-08T22:00:00.000+01:00",
+        "subEvents": [
+          "Closing Ceremony"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
       }
     ]
   },
@@ -25,13 +301,151 @@
     "latitude": 52.479717449999995,
     "longitude": -1.915034421788946,
     "wheelchair": true,
+    "venue": true,
     "events": [
       {
-        "Name": "",
-        "Date": "",
-        "Time": "",
-        "Description": ""
+        "name": "Gymnastics - Artistic",
+        "dateTimeStart": "2022-07-29T09:00:00.000+01:00",
+        "dateTimeEnd": "2022-07-29T14:30:00.000+01:00",
+        "subEvents": [
+          "Men's Team Final & Individual Qualification - Subdivision 1",
+          "Men's Team Final & Individual Qualification - Subdivision 2"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Gymnastics - Artistic",
+        "dateTimeStart": "2022-07-29T17:00:00.000+01:00",
+        "dateTimeEnd": "2022-07-29T20:30:00.000+01:00",
+        "subEvents": [
+          "Men's Team Final & Individual Qualification - Subdivision 3",
+          "Men's Team Medal Ceremony"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Gymnastics - Artistic",
+        "dateTimeStart": "2022-07-30T09:00:00.000+01:00",
+        "dateTimeEnd": "2022-07-30T14:00:00.000+01:00",
+        "subEvents": [
+          "Women's Team Final & Individual Qualification - Subdivision 1",
+          "Women's Team Final & Individual Qualification - Subdivision 2"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Gymnastics - Artistic",
+        "dateTimeStart": "2022-07-30T16:30:00.000+01:00",
+        "dateTimeEnd": "2022-07-30T22:00:00.000+01:00",
+        "subEvents": [
+          "Women's Team Final & Individual Qualification - Subdivision 3",
+          "Women's Team Final & Individual Qualification - Subdivision 4",
+          "Women's Team Medal Ceremony"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Gymnastics - Artistic",
+        "dateTimeStart": "2022-07-31T09:00:00.000+01:00",
+        "dateTimeEnd": "2022-07-31T12:00:00.000+01:00",
+        "subEvents": [
+          "Men's Individual All-Around Final",
+          "Men's Individual All-Around Medal Ceremony"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Gymnastics - Artistic",
+        "dateTimeStart": "2022-07-31T14:30:00.000+01:00",
+        "dateTimeEnd": "2022-07-31T17:30:00.000+01:00",
+        "subEvents": [
+          "Women's Individual All-Around Final",
+          "Women's Individual All-Around Medal Ceremony"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Gymnastics - Artistic",
+        "dateTimeStart": "2022-08-01T13:00:00.000+01:00",
+        "dateTimeEnd": "2022-08-01T17:00:00.000+01:00",
+        "subEvents": [
+          "Men's Floor Exercise Final",
+          "Men's Floor Exercise Medal Ceremony",
+          "Women's Vault Final",
+          "Men's Pommel Horse Final",
+          "Women's Vault Medal Ceremony",
+          "Men's Pommel Horse Medal Ceremony",
+          "Women's Uneven Bars Final",
+          "Men's Rings Final",
+          "Women's Uneven Bars Medal Ceremony",
+          "Men's Rings Medal Ceremony"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Gymnastics - Artistic",
+        "dateTimeStart": "2022-08-02T13:00:00.000+01:00",
+        "dateTimeEnd": "2022-08-02T17:00:00.000+01:00",
+        "subEvents": [
+          "Men's Vault Final",
+          "Men's Vault Medal Ceremony",
+          "Women's Balance Beam Final",
+          "Men's Parallel Bars Final",
+          "Women's Balance Beam Medal Ceremony",
+          "Men's Parallel Bars Medal Ceremony",
+          "Women's Floor Exercise Final",
+          "Men's Horizontal Bar Final",
+          "Women's Floor Exercise Medal Ceremony",
+          "Men's Horizontal Bar Medal Ceremony"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Gymnastics - Rhythmic",
+        "dateTimeStart": "2022-08-04T12:00:00.000+01:00",
+        "dateTimeEnd": "2022-08-04T15:30:00.000+01:00",
+        "subEvents": [
+          "Team Final & Individual Qualification - Subdivision 1"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Gymnastics - Rhythmic",
+        "dateTimeStart": "2022-08-04T18:00:00.000+01:00",
+        "dateTimeEnd": "2022-08-04T21:30:00.000+01:00",
+        "subEvents": [
+         "Team Final & Individual Qualification - Subdivision 2",
+         "Team Medal Ceremony"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Gymnastics - Rhythmic",
+        "dateTimeStart": "2022-08-05T13:30:00.000+01:00",
+        "dateTimeEnd": "2022-08-05T17:30:00.000+01:00",
+        "subEvents": [
+         "Individual All-Around Final",
+         "Individual All-Around Medal Ceremony"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Gymnastics - Rhythmic",
+        "dateTimeStart": "2022-08-06T10:00:00.000+01:00",
+        "dateTimeEnd": "2022-08-06T13:00:00.000+01:00",
+        "subEvents": [
+         "Hoop Final",
+         "Hoop Medal Ceremony",
+         "Ball Final",
+         "Ball Medal Ceremony",
+         "Clubs Final",
+         "Clubs Medal Ceremony",
+         "Ribbon Final",
+         "Ribbon Medal Ceremony"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
       }
+
     ]
   },
   {
@@ -42,13 +456,114 @@
     "latitude": 51.550376799999995,
     "longitude": -0.015239363509253154,
     "wheelchair": false,
+    "venue": true,
     "events": [
       {
-        "Name": "",
-        "Date": "",
-        "Time": "",
-        "Description": ""
+        "name": "Cycling - Track and Para Track",
+        "dateTimeStart": "2022-07-29T10:00:00.000+01:00",
+        "dateTimeEnd": "2022-07-29T13:00:00.000+01:00",
+        "subEvents": [
+        "Women's Tandem B - Sprint Qualification",
+        "Women's 4000m Team Pursuit Qualification",
+        "Men's 4000m Team Pursuit Qualification",
+        "Women's Team Sprint Qualification",
+        "Women's Tandem B - Sprint Semi-Finals",
+        "Men's Team Sprint Qualification"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Cycling - Track and Para Track",
+        "dateTimeStart": "2022-07-29T16:00:00.000+01:00",
+        "dateTimeEnd": "2022-07-29T18:30:00.000+01:00",
+        "subEvents": [
+          "Women's Tandem B - Sprint Finals",
+          "Men's Tandem B - 1000m Time Trial",
+          "Women's 4000m Team Pursuit Finals",
+          "Men's Tandem B - 1000m Medal Ceremony",
+          "Women's 4000m Team Pursuit Medal Ceremony",
+          "Men's 4000m Team Pursuit Finals",
+          "Women's Tandem B - Sprint Medal Ceremony",
+          "Men's 4000m Team Pursuit Medal Ceremony",
+          "Women's Team Sprint Finals",
+          "Men's Team Sprint Finals",
+          "Women's Team Sprint Medal Ceremony",
+          "Men's Team Sprint Medal Ceremony"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Cycling - Track and Para Track",
+        "dateTimeStart": "2022-07-30T10:00:00.000+01:00",
+        "dateTimeEnd": "2022-07-30T14:15:00.000+01:00",
+        "subEvents": [
+          "Women's Sprint Qualification",
+          "Women's 3000m Individual Pursuit Qualification",
+          "Womens Sprint 1/8 Finals",
+          "Womens Sprint Quarter-Finals",
+          "Men's 4000m Individual Pursuit Qualification"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Cycling - Track and Para Track",
+        "dateTimeStart": "2022-07-31T10:00:00.000+01:00",
+        "dateTimeEnd": "2022-07-31T13:30:00.000+01:00",
+        "subEvents": [
+          "Men's Sprint Qualification",
+          "Men's Tandem B - Sprint Qualification",
+          "Men's Sprint 1/8 Finals",
+          "Men's Tandem B - Sprint Semi-Finals",
+          "Men's Sprint Quarter-Finals",
+          "Men's 15km Scratch Race Qualification",
+          "Women's 25km Points Race Qualification"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Cycling - Track and Para Track",
+        "dateTimeStart": "2022-07-31T15:00:00.000+01:00",
+        "dateTimeEnd": "2022-07-31T19:00:00.000+01:00",
+        "subEvents": [
+          "Men's Tandem B Sprint Finals",
+          "Men's Sprint Semi-Finals",
+          "Women's Tandem B - 1000m Time Trial Final",
+          "Women's 25km Points Race Final",
+          "Women's 500m Time Trial Final",
+          "Men's Sprint Finals",
+          "Women's Tandem B - 1000m Time Trial Medal Ceremony",
+          "Men's Tandem B - Sprint Medal Ceremony",
+          "Women's 25km Points Race Medal Ceremony",
+          "Women's 500m Time Trial Medal Ceremony",
+          "Men's 15km Scratch Race Final",
+          "Men's Sprint Medal Ceremony",
+          "Men's 15km Scratch Race Medal Ceremony"
+
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Cycling - Track and Para Track",
+        "dateTimeStart": "2022-08-01T14:00:00.000+01:00",
+        "dateTimeEnd": "2022-08-01T19:00:00.000+01:00",
+        "subEvents": [
+          "Women's 10km Scratch Race Qualification",
+          "Women's Keirin Round 1",
+          "Men's 40km Points Race Qualification",
+          "Women's Keirin Round 1 Repechage",
+          "Men's 1000m Time Trial Final",
+          "Women's Keirin Round 2",
+          "Men's 1000m Time Trial Medal Ceremony",
+          "Women's 10km Scratch Race Final",
+          "Women's Keirin Finals (7-12 & 1-6)",
+          "Women's 10km Scratch Race Medal Ceremony",
+          "Men's 40km Points Race Final",
+          "Women's Keirin Medal Ceremony",
+          "Men's 40km Points Race Medal Ceremony"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
       }
+
     ]
   },
   {
@@ -59,13 +574,282 @@
     "latitude": 51.550376799999995,
     "longitude": -0.015239363509253154,
     "wheelchair": false,
+    "venue": true,
     "events": [
       {
-        "Name": "",
-        "Date": "",
-        "Time": "",
-        "Description": ""
+        "name": "Rugby Sevens",
+        "dateTimeStart": "2022-07-29T09:00:00.000+01:00",
+        "dateTimeEnd": "2022-07-29T13:30:00.000+01:00",
+        "subEvents": [
+          "Women's Group Match",
+          "Women's Group Match",
+          "Women's Group Match",
+          "Women's Group Match",
+          "Men's Group Match",
+          "Men's Group Match",
+          "Men's Group Match",
+          "Men's Group Match",
+          "Men's Group Match",
+          "Men's Group Match",
+          "Men's Group Match",
+          "Men's Group Match"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Rugby Sevens",
+        "dateTimeStart": "2022-07-29T17:30:00.000+01:00",
+        "dateTimeEnd": "2022-07-29T22:00:00.000+01:00",
+        "subEvents": [
+          "Women's Group Match",
+          "Women's Group Match",
+          "Women's Group Match",
+          "Women's Group Match",
+          "Men's Group Match",
+          "Men's Group Match",
+          "Men's Group Match",
+          "Men's Group Match",
+          "Men's Group Match",
+          "Men's Group Match",
+          "Men's Group Match",
+          "Men's Group Match"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Rugby Sevens",
+        "dateTimeStart": "2022-07-30T09:00:00.000+01:00",
+        "dateTimeEnd": "2022-07-30T13:30:00.000+01:00",
+        "subEvents": [
+          "Women's Group Match",
+          "Women's Group Match",
+          "Women's Group Match",
+          "Women's Group Match",
+          "Men's Group Match",
+          "Men's Group Match",
+          "Men's Group Match",
+          "Men's Group Match",
+          "Men's Group Match",
+          "Men's Group Match",
+          "Men's Group Match",
+          "Men's Group Match"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Rugby Sevens",
+        "dateTimeStart": "2022-07-30T17:30:00.000+01:00",
+        "dateTimeEnd": "2022-07-30T22:30:00.000+01:00",
+        "subEvents": [
+         "Women's 5-8 Semi-final 1",
+         "Women's 5-8 Semi-final 2",
+         "Men's 9-16 Quarter-final 1",
+         "Men's 9-16 Quarter-final 2",
+         "Men's 9-16 Quarter-final 3",
+         "Men's 9-16 Quarter-final 4",
+         "Women's Semi-final 1",
+         "Women's Semi-final 2",
+         "Men's Quarter-final 1",
+         "Men's Quarter-final 2",
+         "Men's Quarter-final 3",
+         "Men's Quarter-final 4"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Rugby Sevens",
+        "dateTimeStart": "2022-07-31T11:00:00.000+01:00",
+        "dateTimeEnd": "2022-07-31T14:30:00.000+01:00",
+        "subEvents": [
+         "Men's 13-16 Semi-final 1",
+         "Men's 13-16 Semi-final 2",
+         "Men's 9-12 Semi-final 1",
+         "Men's 9-12 Semi-final 2",
+         "Men's 5-8 Semi-final 1",
+         "Men's 5-8 Semi-final 2",
+         "Men's Semi-final 1",
+         "Men's Semi-final 2"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Rugby Sevens",
+        "dateTimeStart": "2022-07-31T18:30:00.000+01:00",
+        "dateTimeEnd": "2022-07-31T22:00:00.000+01:00",
+        "subEvents": [
+         "Women's Playoff for 7th",
+         "Women's Playoff for 5th",
+         "Men's Playoff for 13th",
+         "Men's Playoff for 9th",
+         "Men's Playoff for 5th",
+         "Women's Bronze Match",
+         "Men's Bronze Medal Match",
+         "Women's Gold Medal Match",
+         "Men's Gold Medal Match",
+         "Women's Medal Ceremony",
+         "Men's Medal Ceremony"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Judo",
+        "dateTimeStart": "2022-08-01T10:00:00.000+01:00",
+        "dateTimeEnd": "2022-08-01T15:00:00.000+01:00",
+        "subEvents": [
+         "Women's -48kg Preliminary Rounds Quarter-finals Semi-finals and Repechage",
+         "Women's -52kg Preliminary Rounds Quarter-finals Semi-finals and Repechage",
+         "Women's -57kg Preliminary Rounds Quarter-finals Semi-finals and Repechage",
+         "Men's -60kg Preliminary Rounds Quarter-finals Semi-finals and Repechage",
+         "Men's -66kg Preliminary Rounds Quarter-finals Semi-finals and Repechage"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Judo",
+        "dateTimeStart": "2022-08-01T17:00:00.000+01:00",
+        "dateTimeEnd": "2022-08-01T19:45:00.000+01:00",
+        "subEvents": [
+         "Women's -48kg Medal Contests",
+         "Men's -60kg Medal Contests",
+         "Women's -48kg Medal Ceremony",
+         "Women's -52kg Medal Contests",
+         "Men's -60kg Medal Ceremony",
+         "Men's -66kg Medal Contests",
+         "Women's -52kg Medal Ceremony",
+         "Women's -57kg Medal Contests",
+         "Men's -66kg Medal Ceremony",
+         "Women's -57kg Medal Ceremony"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Judo",
+        "dateTimeStart": "2022-08-02T10:00:00.000+01:00",
+        "dateTimeEnd": "2022-08-02T15:00:00.000+01:00",
+        "subEvents": [
+          "Women's -63kg Preliminary Rounds Quarter-finals Semi-finals and Repechage",
+          "Women's -70kg Preliminary Rounds Quarter-finals Semi-finals and Repechage",
+          "Men's -73kg Preliminary Rounds Quarter-finals Semi-finals and Repechage",
+          "Men's -81kg Preliminary Rounds Quarter-finals Semi-finals and Repechage"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Judo",
+        "dateTimeStart": "2022-08-02T17:00:00.000+01:00",
+        "dateTimeEnd": "2022-08-02T19:45:00.000+01:00",
+        "subEvents": [
+          "Women's -63kg Medal Contests",
+          "Men's -73kg Medal Contests",
+          "Women's -63kg Medal Ceremony",
+          "Women's -70kg Medal Contests",
+          "Men's -73kg Medal Ceremony",
+          "Men's -81kg Medal Contests",
+          "Women's -70kg Medal Ceremony",
+          "Men's -81kg Medal Ceremony"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Judo",
+        "dateTimeStart": "2022-08-03T10:00:00.000+01:00",
+        "dateTimeEnd": "2022-08-03T14:30:00.000+01:00",
+        "subEvents": [
+          "Women's -78kg Preliminary Rounds Quarter-finals Semi-finals and Repechage",
+          "Women's +78kg Preliminary Rounds Quarter-finals Semi-finals and Repechage",
+          "Men's -90kg Preliminary Rounds Quarter-finals Semi-finals and Repechage",
+          "Men's -100kg Preliminary Rounds Quarter-finals Semi-finals and Repechage",
+          "Men's +100kg Preliminary Rounds Quarter-finals Semi-finals and Repechage"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Judo",
+        "dateTimeStart": "2022-08-03T17:00:00.000+01:00",
+        "dateTimeEnd": "2022-08-03T19:45:00.000+01:00",
+        "subEvents": [
+          "Men's -90kg Medal Contests",
+          "Women's -78kg Medal Contests",
+          "Men's -90kg Medal Ceremony",
+          "Men's -100kg Medal Contests",
+          "Women's -78kg Medal Ceremony",
+          "Women's +78kg Medal Contests",
+          "Men's -100kg Medal Ceremony",
+          "Men's +100kg Medal Contests",
+          "Women's +78kg Medal Ceremony",
+          "Men's +100kg Medal Ceremony"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Wrestling",
+        "dateTimeStart": "2022-08-05T10:30:00.000+01:00",
+        "dateTimeEnd": "2022-08-05T13:30:00.000+01:00",
+        "subEvents": [
+          "Women's Freestyle 57kg - Preliminary Rounds Quarter-finals Semi-finals and Repechage",
+          "Women's Freestyle 62kg - Preliminary Rounds Quarter-finals Semi-finals and Repechage",
+          "Women's Freestyle 68kg - Preliminary Rounds Quarter-finals Semi-finals and Repechage",
+          "Men's Freestyle 65kg - Preliminary Rounds Quarter-finals Semi-finals and Repechage",
+          "Men's Freestyle 86kg - Preliminary Rounds Quarter-finals Semi-finals and Repechage",
+          "Men's Freestyle 125kg - Preliminary Rounds Quarter-finals Semi-finals and Repechage"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Wrestling",
+        "dateTimeStart": "2022-08-05T17:00:00.000+01:00",
+        "dateTimeEnd": "2022-08-05T19:30:00.000+01:00",
+        "subEvents": [
+          "Women's Freestyle 57kg - Medal contest",
+          "Men's Freestyle 65kg - Medal contest",
+          "Women's Freestyle 57kg - Medal Ceremony",
+          "Women's Freestyle 62kg - Medal contest",
+          "Men's Freestyle 65kg - Medal Ceremony",
+          "Men's Freestyle 86kg - Medal contest",
+          "Women's Freestyle 62kg - Medal Ceremony",
+          "Women's Freestyle 68kg - Medal contest",
+          "Men's Freestyle 86kg - Medal Ceremony",
+          "Men's Freestyle 125kg - Medal contest",
+          "Women's Freestyle 68kg - Medal Ceremony",
+          "Men's Freestyle 125kg - Medal Ceremony"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Wrestling",
+        "dateTimeStart": "2022-08-06T10:30:00.000+01:00",
+        "dateTimeEnd": "2022-08-06T13:30:00.000+01:00",
+        "subEvents": [
+          "Women's Freestyle 50kg - Preliminary Rounds Quarter-finals Semi-finals and Repechage",
+          "Women's Freestyle 53kg - Preliminary Rounds Quarter-finals Semi-finals and Repechage",
+          "Women's Freestyle 76kg - Preliminary Rounds Quarter-finals Semi-finals and Repechage",
+          "Men's Freestyle 57kg - Preliminary Rounds Quarter-finals Semi-finals and Repechage",
+          "Men's Freestyle 74kg - Preliminary Rounds Quarter-finals Semi-finals and Repechage",
+          "Men's Freestyle 97kg - Preliminary Rounds Quarter-finals Semi-finals and Repechage"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Wrestling",
+        "dateTimeStart": "2022-08-06T17:00:00.000+01:00",
+        "dateTimeEnd": "2022-08-06T19:30:00.000+01:00",
+        "subEvents": [
+          "Men's Freestyle 57kg - Medal contest",
+          "Women's Freestyle 50kg - Medal contest",
+          "Men's Freestyle 57kg - Medal Ceremony",
+          "Men's Freestyle 74kg - Medal contest",
+          "Women's Freestyle 50kg - Medal Ceremony",
+          "Women's Freestyle 53kg - Medal contest",
+          "Men's Freestyle 74kg - Medal Ceremony",
+          "Men's Freestyle 97kg - Medal contest",
+          "Women's Freestyle 53kg - Medal Ceremony",
+          "Women's Freestyle 76kg - Medal contest",
+          "Men's Freestyle 97kg - Medal Ceremony",
+          "Women's Freestyle 76kg - Medal Ceremony"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
       }
+      
     ]
   },
   {
@@ -76,12 +860,19 @@
     "latitude": 52.75182255224424,
     "longitude": -1.9749603872251655,
     "wheelchair": false,
+    "venue": true,
     "events": [
       {
-        "Name": "",
-        "Date": "",
-        "Time": "",
-        "Description": ""
+        "name": "Cycling - Mountain Bike",
+        "dateTimeStart": "2022-08-03T11:30:00.000+01:00",
+        "dateTimeEnd": "2022-08-03T16:00:00.000+01:00",
+        "subEvents": [
+          "Women's Cross Country Final",
+          "Women's Cross Country Medal Ceremony",
+          "Men's Cross Country Final",
+          "Men's Cross Country Medal Ceremony"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
       }
     ]
   },
@@ -93,12 +884,152 @@
     "latitude": 	52.45535824116285,
     "longitude": -1.9041023863002897,
     "wheelchair": true,
+    "venue": true,
     "events": [
       {
-        "Name": "",
-        "Date": "",
-        "Time": "",
-        "Description": ""
+        "name": "Cricket T20",
+        "dateTimeStart": "2022-07-29T11:00:00.000+01:00",
+        "dateTimeEnd": "2022-07-29T14:30:00.000+01:00",
+        "subEvents": [
+          "Women's Group A Match: Australia v India"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Cricket T20",
+        "dateTimeStart": "2022-07-29T18:00:00.000+01:00",
+        "dateTimeEnd": "2022-07-29T21:30:00.000+01:00",
+        "subEvents": [
+          "Women's Group A Match: Pakistan v Barbados"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Cricket T20",
+        "dateTimeStart": "2022-07-30T11:00:00.000+01:00",
+        "dateTimeEnd": "2022-07-30T14:30:00.000+01:00",
+        "subEvents": [
+          "Women's Group B Match: New Zealand v South Africa"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Cricket T20",
+        "dateTimeStart": "2022-07-30T18:00:00.000+01:00",
+        "dateTimeEnd": "2022-07-30T21:30:00.000+01:00",
+        "subEvents": [
+          "Women's Group B Match: England v Sri Lanka"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Cricket T20",
+        "dateTimeStart": "2022-07-31T11:00:00.000+01:00",
+        "dateTimeEnd": "2022-07-31T14:30:00.000+01:00",
+        "subEvents": [
+          "Women's Group A Match: India v Pakistan"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Cricket T20",
+        "dateTimeStart": "2022-07-31T18:00:00.000+01:00",
+        "dateTimeEnd": "2022-07-31T21:30:00.000+01:00",
+        "subEvents": [
+          "Women's Group A Match: Barbados v Australia"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Cricket T20",
+        "dateTimeStart": "2022-08-02T11:00:00.000+01:00",
+        "dateTimeEnd": "2022-08-02T14:30:00.000+01:00",
+        "subEvents": [
+          "Women's Group B Match: England v South Africa"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Cricket T20",
+        "dateTimeStart": "2022-08-02T18:00:00.000+01:00",
+        "dateTimeEnd": "2022-08-02T21:30:00.000+01:00",
+        "subEvents": [
+          "Women's Group B Match: Sri Lanka v New Zealand"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Cricket T20",
+        "dateTimeStart": "2022-08-03T11:00:00.000+01:00",
+        "dateTimeEnd": "2022-08-03T14:30:00.000+01:00",
+        "subEvents": [
+          "Women's Group A Match: Australia v Pakistan"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Cricket T20",
+        "dateTimeStart": "2022-08-03T18:00:00.000+01:00",
+        "dateTimeEnd": "2022-08-03T21:30:00.000+01:00",
+        "subEvents": [
+          "Women's Group A Match: India v Barbados"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Cricket T20",
+        "dateTimeStart": "2022-08-04T11:00:00.000+01:00",
+        "dateTimeEnd": "2022-08-04T14:30:00.000+01:00",
+        "subEvents": [
+          "Women's Group B Match: South Africa v Sri Lanka"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Cricket T20",
+        "dateTimeStart": "2022-08-04T18:00:00.000+01:00",
+        "dateTimeEnd": "2022-08-04T21:30:00.000+01:00",
+        "subEvents": [
+          "Women's Group B Match: England v New Zealand"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Cricket T20",
+        "dateTimeStart": "2022-08-06T11:00:00.000+01:00",
+        "dateTimeEnd": "2022-08-06T14:30:00.000+01:00",
+        "subEvents": [
+          "Women's Semi-final 1"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Cricket T20",
+        "dateTimeStart": "2022-08-06T18:00:00.000+01:00",
+        "dateTimeEnd": "2022-08-06T21:30:00.000+01:00",
+        "subEvents": [
+          "Women's Semi-final 2"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Cricket T20",
+        "dateTimeStart": "2022-08-07T10:00:00.000+01:00",
+        "dateTimeEnd": "2022-08-07T13:30:00.000+01:00",
+        "subEvents": [
+          "Women's Bronze Medal Match"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Cricket T20",
+        "dateTimeStart": "2022-08-07T17:00:00.000+01:00",
+        "dateTimeEnd": "2022-08-07T20:30:00.000+01:00",
+        "subEvents": [
+          "Women's Gold Medal Match",
+          "Medal Ceremony"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
       }
     ]
   },
@@ -110,12 +1041,1199 @@
     "latitude": 	52.454370958299464,
     "longitude":  -1.7170518858434227,
     "wheelchair": true,
+    "venue": true,
     "events": [
       {
-        "Name": "",
-        "Date": "",
-        "Time": "",
-        "Description": ""
+        "name": "Badminton",
+        "dateTimeStart": "2022-07-29T09:00:00.000+01:00",
+        "dateTimeEnd": "2022-07-29T12:30:00.000+01:00",
+        "subEvents": [
+         " Mixed Team Event Qualifying Round 1"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Table Tennis and Para Table Tennis",
+        "dateTimeStart": "2022-07-29T09:30:00.000+01:00",
+        "dateTimeEnd": "2022-07-29T14:30:00.000+01:00",
+        "subEvents": [
+         "Women's Team Event Qualifying Round 1",
+         "Men's Team Event Qualifying Round 1"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Boxing",
+        "dateTimeStart": "2022-07-29T12:00:00.000+01:00",
+        "dateTimeEnd": "2022-07-29T15:00:00.000+01:00",
+        "subEvents": [
+         "Men's & Women's Preliminary Round of 32"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Netball",
+        "dateTimeStart": "2022-07-29T12:00:00.000+01:00",
+        "dateTimeEnd": "2022-07-29T15:30:00.000+01:00",
+        "subEvents": [
+         "England v Trinidad & Tobago",
+         "Australia v Barbados"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Badminton",
+        "dateTimeStart": "2022-07-29T14:00:00.000+01:00",
+        "dateTimeEnd": "2022-07-29T17:30:00.000+01:00",
+        "subEvents": [
+         "Mixed Team Event Qualifying Round 1"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Table Tennis and Para Table Tennis",
+        "dateTimeStart": "2022-07-29T16:00:00.000+01:00",
+        "dateTimeEnd": "2022-07-29T21:00:00.000+01:00",
+        "subEvents": [
+         "Women's Team Event Qualifying Round 2",
+         "Men's Team Event Qualifying Round 2"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Netball",
+        "dateTimeStart": "2022-07-29T18:00:00.000+01:00",
+        "dateTimeEnd": "2022-07-29T21:30:00.000+01:00",
+        "subEvents": [
+         "Jamaica v Wales",
+         "New Zealand v Northern Ireland"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Boxing",
+        "dateTimeStart": "2022-07-29T18:30:00.000+01:00",
+        "dateTimeEnd": "2022-07-29T21:00:00.000+01:00",
+        "subEvents": [
+        "Men's & Women's Preliminary Round of 32"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Badminton",
+        "dateTimeStart": "2022-07-29T19:00:00.000+01:00",
+        "dateTimeEnd": "2022-07-29T22:30:00.000+01:00",
+        "subEvents": [
+        "Mixed Team Event Qualifying Round 2"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Badminton",
+        "dateTimeStart": "2022-07-30T09:00:00.000+01:00",
+        "dateTimeEnd": "2022-07-30T12:30:00.000+01:00",
+        "subEvents": [
+        "Mixed Team Event Qualifying Round 2"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Weightlifting",
+        "dateTimeStart": "2022-07-30T09:00:00.000+01:00",
+        "dateTimeEnd": "2022-07-30T13:45:00.000+01:00",
+        "subEvents": [
+        "Men's 55kg",
+        "Men's 55kg Medal Ceremony",
+        "Men's 61kg",
+        "Men's 61kg Medal Ceremony"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Table Tennis and Para Table Tennis",
+        "dateTimeStart": "2022-07-30T09:30:00.000+01:00",
+        "dateTimeEnd": "2022-07-30T14:30:00.000+01:00",
+        "subEvents": [
+        "Women's Team Event Qualifying Round 3",
+        "Men's Team Event Qualifying Round 3"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Boxing",
+        "dateTimeStart": "2022-07-30T12:00:00.000+01:00",
+        "dateTimeEnd": "2022-07-30T15:00:00.000+01:00",
+        "subEvents": [
+        "Men's & Women's Preliminary Rounds of 16 & 32"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Netball",
+        "dateTimeStart": "2022-07-30T12:00:00.000+01:00",
+        "dateTimeEnd": "2022-07-30T15:30:00.000+01:00",
+        "subEvents": [
+          "Australia v Scotland",
+          "England v Malawi"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Badminton",
+        "dateTimeStart": "2022-07-30T14:00:00.000+01:00",
+        "dateTimeEnd": "2022-07-30T17:30:00.000+01:00",
+        "subEvents": [
+          "Mixed Team Event Qualifying Round 3"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Weightlifting",
+        "dateTimeStart": "2022-07-30T15:30:00.000+01:00",
+        "dateTimeEnd": "2022-07-30T17:45:00.000+01:00",
+        "subEvents": [
+          "Women's 49kg",
+          "Women's 49kg Medal Ceremony"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Table Tennis and Para Table Tennis",
+        "dateTimeStart": "2022-07-30T16:00:00.000+01:00",
+        "dateTimeEnd": "2022-07-30T21:00:00.000+01:00",
+        "subEvents": [
+          "Women's Team Event Quarter-Finals"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Netball",
+        "dateTimeStart": "2022-07-30T18:00:00.000+01:00",
+        "dateTimeEnd": "2022-07-30T21:30:00.000+01:00",
+        "subEvents": [
+          "Jamaica v South Africa",
+          "New Zealand v Uganda"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Boxing",
+        "dateTimeStart": "2022-07-30T18:30:00.000+01:00",
+        "dateTimeEnd": "2022-07-30T21:00:00.000+01:00",
+        "subEvents": [
+          "Men's & Women's Preliminary Round of 16"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Badminton",
+        "dateTimeStart": "2022-07-30T19:00:00.000+01:00",
+        "dateTimeEnd": "2022-07-30T22:30:00.000+01:00",
+        "subEvents": [
+          "Mixed Team Event Qualifying Round 3"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Weightlifting",
+        "dateTimeStart": "2022-07-30T20:00:00.000+01:00",
+        "dateTimeEnd": "2022-07-30T22:15:00.000+01:00",
+        "subEvents": [
+          "Women's 55kg",
+          "Women's 55kg Medal Ceremony"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Table Tennis and Para Table Tennis",
+        "dateTimeStart": "2022-07-31T09:30:00.000+01:00",
+        "dateTimeEnd": "2022-07-31T14:30:00.000+01:00",
+        "subEvents": [
+          "Men's Team Event Quarter-Finals"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Weightlifting",
+        "dateTimeStart": "2022-07-31T09:30:00.000+01:00",
+        "dateTimeEnd": "2022-07-31T12:00:00.000+01:00",
+        "subEvents": [
+          "Men's 67kg",
+          "Men's 67kg Medal Ceremony"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Badminton",
+        "dateTimeStart": "2022-07-31T11:00:00.000+01:00",
+        "dateTimeEnd": "2022-07-31T14:30:00.000+01:00",
+        "subEvents": [
+          "Mixed Team Event Quarter-Final"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Boxing",
+        "dateTimeStart": "2022-07-31T12:00:00.000+01:00",
+        "dateTimeEnd": "2022-07-31T15:00:00.000+01:00",
+        "subEvents": [
+          "Men's & Women's Preliminary Round of 16"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Netball",
+        "dateTimeStart": "2022-07-31T12:00:00.000+01:00",
+        "dateTimeEnd": "2022-07-31T15:30:00.000+01:00",
+        "subEvents": [
+         "Malawi v Northern Ireland",
+         "South Africa v Barbados"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Weightlifting",
+        "dateTimeStart": "2022-07-31T14:00:00.000+01:00",
+        "dateTimeEnd": "2022-07-31T16:30:00.000+01:00",
+        "subEvents": [
+         "Women's 59kg",
+         "Women's 59kg Medal Ceremony"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Table Tennis and Para Table Tennis",
+        "dateTimeStart": "2022-07-31T16:00:00.000+01:00",
+        "dateTimeEnd": "2022-07-31T21:00:00.000+01:00",
+        "subEvents": [
+         "Women's Team Event Semi-Finals"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Badminton",
+        "dateTimeStart": "2022-07-31T17:30:00.000+01:00",
+        "dateTimeEnd": "2022-07-31T21:00:00.000+01:00",
+        "subEvents": [
+         "Mixed Team Event Quarter-Final"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Netball",
+        "dateTimeStart": "2022-07-31T18:00:00.000+01:00",
+        "dateTimeEnd": "2022-07-31T21:30:00.000+01:00",
+        "subEvents": [
+         "Uganda v Trinidad & Tobago",
+         "Scotland v Wales"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Boxing",
+        "dateTimeStart": "2022-07-31T18:30:00.000+01:00",
+        "dateTimeEnd": "2022-07-31T21:00:00.000+01:00",
+        "subEvents": [
+         "Men's & Women's Preliminary Round of 16"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Weightlifting",
+        "dateTimeStart": "2022-07-31T18:30:00.000+01:00",
+        "dateTimeEnd": "2022-07-31T21:00:00.000+01:00",
+        "subEvents": [
+         "Men's 73kg",
+         "Men's 73kg Medal Ceremony"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Table Tennis and Para Table Tennis",
+        "dateTimeStart": "2022-08-01T09:30:00.000+01:00",
+        "dateTimeEnd": "2022-08-01T14:45:00.000+01:00",
+        "subEvents": [
+         "Women's Team Event Bronze Medal Match",
+         "Women's Team Event Gold Medal Match",
+         "Women's Team Event Medal Ceremony"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Weightlifting",
+        "dateTimeStart": "2022-08-01T09:30:00.000+01:00",
+        "dateTimeEnd": "2022-08-01T12:00:00.000+01:00",
+        "subEvents": [
+         "Men's 81kg",
+         "Men's 81kg Medal Ceremony"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Badminton",
+        "dateTimeStart": "2022-08-01T11:00:00.000+01:00",
+        "dateTimeEnd": "2022-08-01T15:00:00.000+01:00",
+        "subEvents": [
+         "Mixed Team Event Semi-Final"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Boxing",
+        "dateTimeStart": "2022-08-01T12:00:00.000+01:00",
+        "dateTimeEnd": "2022-08-01T15:00:00.000+01:00",
+        "subEvents": [
+         "Men's & Women's Preliminary Round of 16"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Netball",
+        "dateTimeStart": "2022-08-01T12:00:00.000+01:00",
+        "dateTimeEnd": "2022-08-01T15:30:00.000+01:00",
+        "subEvents": [
+         "Australia v South Africa",
+         "Jamaica v Barbados"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Weightlifting",
+        "dateTimeStart": "2022-08-01T14:00:00.000+01:00",
+        "dateTimeEnd": "2022-08-01T16:30:00.000+01:00",
+        "subEvents": [
+         "Women's 64kg",
+         "Women's 64kg Medal Ceremony"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Table Tennis and Para Table Tennis",
+        "dateTimeStart": "2022-08-01T16:30:00.000+01:00",
+        "dateTimeEnd": "2022-08-01T21:30:00.000+01:00",
+        "subEvents": [
+         "Men's Team Event Semi-Finals"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Badminton",
+        "dateTimeStart": "2022-08-01T17:30:00.000+01:00",
+        "dateTimeEnd": "2022-08-01T21:30:00.000+01:00",
+        "subEvents": [
+         "Mixed Team Event Semi-Final"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Netball",
+        "dateTimeStart": "2022-08-01T18:00:00.000+01:00",
+        "dateTimeEnd": "2022-08-01T21:30:00.000+01:00",
+        "subEvents": [
+         "England v Northern Ireland",
+         "New Zealand v Malawi"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Boxing",
+        "dateTimeStart": "2022-08-01T18:30:00.000+01:00",
+        "dateTimeEnd": "2022-08-01T21:30:00.000+01:00",
+        "subEvents": [
+         "Men's & Women's Preliminary Round of 16"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Weightlifting",
+        "dateTimeStart": "2022-08-01T18:30:00.000+01:00",
+        "dateTimeEnd": "2022-08-01T21:00:00.000+01:00",
+        "subEvents": [
+         "Women's 71kg",
+         "Women's 71kg Medal Ceremony"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Weightlifting",
+        "dateTimeStart": "2022-08-02T09:30:00.000+01:00",
+        "dateTimeEnd": "2022-08-02T12:00:00.000+01:00",
+        "subEvents": [
+         "Women's 76kg",
+         "Women's 76kg Medal Ceremony"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Badminton",
+        "dateTimeStart": "2022-08-02T11:00:00.000+01:00",
+        "dateTimeEnd": "2022-08-02T15:00:00.000+01:00",
+        "subEvents": [
+         "Mixed Team Event Bronze Medal Match"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Table Tennis and Para Table Tennis",
+        "dateTimeStart": "2022-08-02T11:00:00.000+01:00",
+        "dateTimeEnd": "2022-08-02T16:30:00.000+01:00",
+        "subEvents": [
+         "Men's Team Event Bronze Medal Match",
+         "Men's Team Event Gold Medal match",
+         "Men's Team Event Medal Ceremony"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Boxing",
+        "dateTimeStart": "2022-08-02T12:00:00.000+01:00",
+        "dateTimeEnd": "2022-08-02T15:00:00.000+01:00",
+        "subEvents": [
+         "Men's & Women's Preliminary Round of 16"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Netball",
+        "dateTimeStart": "2022-08-02T12:00:00.000+01:00",
+        "dateTimeEnd": "2022-08-02T15:30:00.000+01:00",
+        "subEvents": [
+         "Australia v Wales",
+         "Jamaica v Scotland"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Weightlifting",
+        "dateTimeStart": "2022-08-02T14:00:00.000+01:00",
+        "dateTimeEnd": "2022-08-02T16:30:00.000+01:00",
+        "subEvents": [
+         "Men's 96kg",
+         "Men's 96kg Medal Ceremony"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Badminton",
+        "dateTimeStart": "2022-08-02T17:30:00.000+01:00",
+        "dateTimeEnd": "2022-08-02T21:30:00.000+01:00",
+        "subEvents": [
+         "Mixed Team Event Gold Medal Match",
+         "Mixed Team Event Medal Ceremony"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Netball",
+        "dateTimeStart": "2022-08-02T18:00:00.000+01:00",
+        "dateTimeEnd": "2022-08-02T21:30:00.000+01:00",
+        "subEvents": [
+         "England v Uganda",
+         "New Zealand v Trinidad & Tobago"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Boxing",
+        "dateTimeStart": "2022-08-02T18:30:00.000+01:00",
+        "dateTimeEnd": "2022-08-02T21:45:00.000+01:00",
+        "subEvents": [
+         "Men's & Women's Preliminary Round of 16"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Weightlifting",
+        "dateTimeStart": "2022-08-02T18:30:00.000+01:00",
+        "dateTimeEnd": "2022-08-02T21:00:00.000+01:00",
+        "subEvents": [
+         "Women's 87kg",
+         "Women's 87kg Medal Ceremony"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Badminton",
+        "dateTimeStart": "2022-08-03T08:00:00.000+01:00",
+        "dateTimeEnd": "2022-08-03T15:00:00.000+01:00",
+        "subEvents": [
+         "Men's Singles Preliminary Round of 128",
+         "Women's Singles Preliminary Round of 128",
+         "Mixed Doubles Preliminary Round of 128",
+         "Men's Singles Preliminary Round of 64",
+         "Women's Singles Preliminary Round of 64",
+         "Mixed Doubles Preliminary Round of 64"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Table Tennis and Para Table Tennis",
+        "dateTimeStart": "2022-08-03T09:30:00.000+01:00",
+        "dateTimeEnd": "2022-08-03T14:15:00.000+01:00",
+        "subEvents": [
+         "Women's Singles Qualifying Round 1",
+         "Men's Singles Qualifying Round 1",
+         "Women's Classes 6-10 Qualifying Round 1",
+         "Women's Classes 3-5 Qualifying Round 1",
+         "Women's Singles Qualifying Round 2",
+         "Men's Singles Qualifying Round 2",
+         "Men's Classes 8-10 Qualifying Round 1",
+         "Men's Classes 3-5 Qualifying Round 1",
+         "Women's Singles Qualifying Round 3",
+         "Men's Singles Qualifying Round 3"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Weightlifting",
+        "dateTimeStart": "2022-08-03T09:30:00.000+01:00",
+        "dateTimeEnd": "2022-08-03T12:00:00.000+01:00",
+        "subEvents": [
+         "Men's 109kg",
+         "Men's 109kg Medal Ceremony"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Boxing",
+        "dateTimeStart": "2022-08-03T12:00:00.000+01:00",
+        "dateTimeEnd": "2022-08-03T16:00:00.000+01:00",
+        "subEvents": [
+         "Women's Minimumweight (45-48kg) Quarter-Final",
+         "Men's Flyweight (48-51kg) Quarter-Final",
+         "Women's Light Flyweight (48-50kg) Quarter-Final",
+         "Men's Bantamweight (51-54kg) Quarter-Final",
+         "Men's Featherweight (54-57kg) Quarter-Final",
+         "Women's Featherweight (54-57kg) Quarter-Final",
+         "Men's Light Welterweight (60-63.5kg) Quarter-Final",
+         "Women's Light Middleweight (66-70kg) Quarter-Final",
+         "Men's Welterweight (63.5-67kg) Quarter-Final",
+         "Men's Light Middleweight (67-71kg) Quarter-Final",
+         "Women's Lightweight (66-70kg) Quarter-Final",
+         "Men's Middleweight (71-75kg) Quarter-Final",
+         "Women's Middleweight (70-75kg) Quarter-Final",
+         "Men's Light Heavyweight (75-80kg) Quarter-Final",
+         "Men's Heavyweight (86-92kg) Quarter-Final",
+         "Men's Super Heavyweight (Over 92kg) Quarter-Final"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Netball",
+        "dateTimeStart": "2022-08-03T12:00:00.000+01:00",
+        "dateTimeEnd": "2022-08-03T15:30:00.000+01:00",
+        "subEvents": [
+         "South Africa v Wales",
+         "Uganda v Northern Ireland"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Weightlifting",
+        "dateTimeStart": "2022-08-03T14:00:00.000+01:00",
+        "dateTimeEnd": "2022-08-03T16:30:00.000+01:00",
+        "subEvents": [
+         "Women's 87+kg",
+         "Women's 87+kg Medal Ceremony"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Table Tennis and Para Table Tennis",
+        "dateTimeStart": "2022-08-03T16:00:00.000+01:00",
+        "dateTimeEnd": "2022-08-03T20:45:00.000+01:00",
+        "subEvents": [
+         "Women's Singles Qualifying Round 1",
+         "Men's Singles Qualifying Round 1",
+         "Women's Classes 6-10 Qualifying Round 2",
+         "Women's Classes 3-5 Qualifying Round 2",
+         "Women's Singles Qualifying Round 2",
+         "Men's Singles Qualifying Round 2",
+         "Men's Classes 8-10 Qualifying Round 2",
+         "Men's Classes 3-5 Qualifying Round 2",
+         "Women's Singles Qualifying Round 3",
+         "Men's Singles Qualifying Round 3"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Badminton",
+        "dateTimeStart": "2022-08-03T16:30:00.000+01:00",
+        "dateTimeEnd": "2022-08-03T22:30:00.000+01:00",
+        "subEvents": [
+         "Men's Singles Preliminary Round of 64",
+         "Women's Singles Preliminary Round of 64",
+         "Mixed Doubles Preliminary Round of 64"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Boxing",
+        "dateTimeStart": "2022-08-03T18:00:00.000+01:00",
+        "dateTimeEnd": "2022-08-03T22:00:00.000+01:00",
+        "subEvents": [
+         "Men's Minimumweight (45-48kg) Quarter-Final",
+         "Men's Flyweight (48-51kg) Quarter-Final",
+         "Women's Light Flyweight (48-50kg) Quarter-Final",
+         "Men's Bantamweight (51-54kg) Quarter-Final",
+         "Women's Featherweight (54-57kg) Quarter-Final",
+         "Women's Featherweight (54-57kg) Quarter-Final",
+         "Men's Light Welterweight (60-63.5kg) Quarter-Final",
+         "Women's Light Middleweight (66-70kg) Quarter-Final",
+         "Men's Welterweight (63.5-67kg) Quarter-Final",
+         "Men's Light Middleweight (67-71kg) Quarter-Final",
+         "Women's Lightweight (66-70kg) Quarter-Final",
+         "Men's Middleweight (71-75kg) Quarter-Final",
+         "Women's Middleweight (70-75kg) Quarter-Final",
+         "Men's Light Heavyweight (75-80kg) Quarter-Final",
+         "Men's Heavyweight (86-92kg) Quarter-Final",
+         "Men's Super Heavyweight (Over 92kg) Quarter-Final"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Netball",
+        "dateTimeStart": "2022-08-03T18:00:00.000+01:00",
+        "dateTimeEnd": "2022-08-03T21:30:00.000+01:00",
+        "subEvents": [
+         "Scotland v Barbados",
+         "Malawi v Trinidad & Tobago"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Weightlifting",
+        "dateTimeStart": "2022-08-03T18:30:00.000+01:00",
+        "dateTimeEnd": "2022-08-03T21:00:00.000+01:00",
+        "subEvents": [
+         "Men's 109+kg",
+         "Men's 109+kg Medal Ceremony"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Badminton",
+        "dateTimeStart": "2022-08-04T09:00:00.000+01:00",
+        "dateTimeEnd": "2022-08-04T15:00:00.000+01:00",
+        "subEvents": [
+         "Men's Singles Preliminary Round of 32",
+         "Women's Singles Preliminary Round of 32",
+         "Men's Doubles Preliminary Round of 32",
+         "Women's Doubles Preliminary Round of 32",
+         "Mixed Doubles Preliminary Round of 32"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Netball",
+        "dateTimeStart": "2022-08-04T09:00:00.000+01:00",
+        "dateTimeEnd": "2022-08-04T12:30:00.000+01:00",
+        "subEvents": [
+         "Australia v Jamaica",
+         "Wales v Barbados"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Table Tennis and Para Table Tennis",
+        "dateTimeStart": "2022-08-04T09:30:00.000+01:00",
+        "dateTimeEnd": "2022-08-04T14:15:00.000+01:00",
+        "subEvents": [
+         "Mixed Doubles Round 1",
+         "Women's Classes 3-5 Qualifying Round 3",
+         "Women's Classes 6-10 Qualifying Round 3",
+         "Men's Classes 3-5 Qualifying Round 3",
+         "Men's Classes 8-10 Qualifying Round 3",
+         "Men's Doubles Round 1",
+         "Women's Doubles Round 1"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Boxing",
+        "dateTimeStart": "2022-08-04T12:00:00.000+01:00",
+        "dateTimeEnd": "2022-08-04T16:00:00.000+01:00",
+        "subEvents": [
+         "Women's Minimumweight (45-48kg) Quarter-Final",
+         "Men's Flyweight (48-51kg) Quarter-Final",
+         "Women's Light Flyweight (48-50kg) Quarter-Final",
+         "Men's Bantamweight (51-54kg) Quarter-Final",
+         "Men's Featherweight (54-57kg) Quarter-Final",
+         "Women's Featherweight (54-57kg) Quarter-Final",
+         "Men's Light Welterweight (60-63.5kg) Quarter-Final",
+         "Women's Light Middleweight (66-70kg) Quarter-Final",
+         "Men's Welterweight (63.5-67kg) Quarter-Final",
+         "Men's Light Middleweight (67-71kg) Quarter-Final",
+         "Women's Lightweight (66-70kg) Quarter-Final",
+         "Men's Middleweight (71-75kg) Quarter-Final",
+         "Women's Middleweight (70-75kg) Quarter-Final",
+         "Men's Light Heavyweight (75-80kg) Quarter-Final",
+         "Men's Heavyweight (86-92kg) Quarter-Final",
+         "Men's Super Heavyweight (Over 92kg) Quarter-Final"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Netball",
+        "dateTimeStart": "2022-08-04T14:00:00.000+01:00",
+        "dateTimeEnd": "2022-08-04T17:30:00.000+01:00",
+        "subEvents": [
+         "Trinidad & Tobago v Northern Ireland",
+         "Malawi v Uganda"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Para Powerlifting",
+        "dateTimeStart": "2022-08-04T15:00:00.000+01:00",
+        "dateTimeEnd": "2022-08-04T17:45:00.000+01:00",
+        "subEvents": [
+         "Women's Lightweight (Up to and including 61kg) Final",
+         "Women's Lightweight (Up to and including 61kg) Medal Ceremony",
+         "Men's Lightweight (Up to and including 72kg) Final",
+         "Men's Lightweight (Up to and including 72kg) Medal Ceremony"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Table Tennis and Para Table Tennis",
+        "dateTimeStart": "2022-08-04T16:00:00.000+01:00",
+        "dateTimeEnd": "2022-08-04T20:30:00.000+01:00",
+        "subEvents": [
+         "Mixed Doubles Round 2",
+         "Women's Singles Round 1",
+         "Men's Doubles Round 2"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Badminton",
+        "dateTimeStart": "2022-08-04T16:30:00.000+01:00",
+        "dateTimeEnd": "2022-08-04T22:30:00.000+01:00",
+        "subEvents": [
+         "Men's Singles Preliminary Round of 32",
+         "Women's Singles Preliminary Round of 32",
+         "Men's Doubles Preliminary Round of 32",
+         "Women's Doubles Preliminary Round of 32",
+         "Mixed Doubles Preliminary Round of 32"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Boxing",
+        "dateTimeStart": "2022-08-04T18:00:00.000+01:00",
+        "dateTimeEnd": "2022-08-04T22:00:00.000+01:00",
+        "subEvents": [
+         "Women's Minimumweight (45-48kg) Quarter-Final",
+         "Men's Flyweight (48-51kg) Quarter-Final",
+         "Women's Light Flyweight (48-50kg) Quarter-Final",
+         "Men's Bantamweight (51-54kg) Quarter-Final",
+         "Women's Featherweight (54-57kg) Quarter-Final",
+         "Women's Featherweight (54-57kg) Quarter-Final",
+         "Men's Light Welterweight (60-63.5kg) Quarter-Final",
+         "Women's Light Middleweight (66-70kg) Quarter-Final",
+         "Men's Welterweight (63.5-67kg) Quarter-Final",
+         "Men's Light Middleweight (67-71kg) Quarter-Final",
+         "Women's Lightweight (66-70kg) Quarter-Final",
+         "Men's Middleweight (71-75kg) Quarter-Final",
+         "Women's Middleweight (70-75kg) Quarter-Final",
+         "Men's Light Heavyweight (75-80kg) Quarter-Final",
+         "Men's Heavyweight (86-92kg) Quarter-Final",
+         "Men's Super Heavyweight (Over 92kg) Quarter-Final"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Netball",
+        "dateTimeStart": "2022-08-04T19:00:00.000+01:00",
+        "dateTimeEnd": "2022-08-04T22:30:00.000+01:00",
+        "subEvents": [
+         "South Africa v Scotland",
+         "New Zealand v England"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Para Powerlifting",
+        "dateTimeStart": "2022-08-04T19:30:00.000+01:00",
+        "dateTimeEnd": "2022-08-04T22:15:00.000+01:00",
+        "subEvents": [
+         "Women's Heavyweight (Over 61kg) Final",
+         "Women's Heavyweight (Over 61kg) Medal Ceremony",
+         "Men's Heavyweight (Over 72kg) Final",
+         "Men's Heavyweight (Over 72kg) Medal Ceremony"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Netball",
+        "dateTimeStart": "2022-08-05T09:00:00.000+01:00",
+        "dateTimeEnd": "2022-08-05T13:00:00.000+01:00",
+        "subEvents": [
+         "Classification Match 1",
+         "Classification Match 2"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Table Tennis and Para Table Tennis",
+        "dateTimeStart": "2022-08-05T09:30:00.000+01:00",
+        "dateTimeEnd": "2022-08-05T14:00:00.000+01:00",
+        "subEvents": [
+         "Mixed Doubles Round 3",
+         "Men's Classes 8-10 Semi-Finals",
+         "Women's Classes 6-10 Semi-Finals",
+         "Women's Classes 3-5 Semi-Finals",
+         "Men's Classes 3-5 Semi-Finals",
+         "Women's Singles Round 2",
+         "Men's Doubles Round 3",
+         "Women's Doubles Round 2",
+         "Men's Singles Round 1"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Badminton",
+        "dateTimeStart": "2022-08-05T11:00:00.000+01:00",
+        "dateTimeEnd": "2022-08-05T15:30:00.000+01:00",
+        "subEvents": [
+         "Men's Singles Preliminary Round of 16",
+         "Women's Singles Preliminary Round of 16",
+         "Men's Doubles Preliminary Round of 16",
+         "Women's Doubles Preliminary Round of 16",
+         "Mixed Doubles Preliminary Round of 16"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Netball",
+        "dateTimeStart": "2022-08-05T14:30:00.000+01:00",
+        "dateTimeEnd": "2022-08-05T18:30:00.000+01:00",
+        "subEvents": [
+         "Classification Match 3",
+         "Classification Match 4"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Table Tennis and Para Table Tennis",
+        "dateTimeStart": "2022-08-05T16:00:00.000+01:00",
+        "dateTimeEnd": "2022-08-05T20:30:00.000+01:00",
+        "subEvents": [
+         "Mixed Doubles Quarter-Finals",
+         "Women's Doubles Round 2",
+         "Men's Doubles Quarter-Finals",
+         "Women's Singles Quarter-Finals",
+         "Men's Singles Round 2"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Badminton",
+        "dateTimeStart": "2022-08-05T17:00:00.000+01:00",
+        "dateTimeEnd": "2022-08-05T22:00:00.000+01:00",
+        "subEvents": [
+         "Men's Singles Preliminary Round of 16",
+         "Women's Singles Preliminary Round of 16",
+         "Men's Doubles Preliminary Round of 16",
+         "Women's Doubles Preliminary Round of 16",
+         "Mixed Doubles Preliminary Round of 16"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Netball",
+        "dateTimeStart": "2022-08-06T09:00:00.000+01:00",
+        "dateTimeEnd": "2022-08-06T11:00:00.000+01:00",
+        "subEvents": [
+         "Semi-final 1"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Table Tennis and Para Table Tennis",
+        "dateTimeStart": "2022-08-06T09:30:00.000+01:00",
+        "dateTimeEnd": "2022-08-06T14:15:00.000+01:00",
+        "subEvents": [
+         "Women's Doubles Round 3",
+         "Men's Singles Quarter-Finals",
+         "Women's Singles Semi-Finals",
+         "Mixed Doubles Semi-Finals"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Boxing",
+        "dateTimeStart": "2022-08-06T10:30:00.000+01:00",
+        "dateTimeEnd": "2022-08-06T13:00:00.000+01:00",
+        "subEvents": [
+         "Women's Minimumweight (45-48kg) Semi-Final",
+         "Women's Minimumweight (45-48kg) Semi-Final",
+         "Men's Flyweight (48-51kg) Semi-Final",
+         "Men's Flyweight (48-51kg) Semi-Final",
+         "Women's Light Middleweight (66-70kg) Semi-Final",
+         "Women's Light Middleweight (66-70kg) Semi-Final",
+         "Men's Middleweight (71-75kg) Semi-Final",
+         "Men's Middleweight (71-75kg) Semi-Final",
+         "Men's Light Heavyweight (75-80kg) Semi-Final",
+         "Men's Light Heavyweight (75-80kg) Semi-Final"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Badminton",
+        "dateTimeStart": "2022-08-06T11:00:00.000+01:00",
+        "dateTimeEnd": "2022-08-06T15:30:00.000+01:00",
+        "subEvents": [
+         "Men's Singles Quarter-Final",
+         "Women's Singles Quarter-Final",
+         "Men's Doubles Quarter-Final",
+         "Women's Doubles Quarter-Final",
+         "Mixed Doubles Quarter-Final"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Boxing",
+        "dateTimeStart": "2022-08-06T14:30:00.000+01:00",
+        "dateTimeEnd": "2022-08-06T17:30:00.000+01:00",
+        "subEvents": [
+         "Women's Light Flyweight (48-50kg) Semi-Final",
+         "Women's Light Flyweight (48-50kg) Semi-Final",
+         "Men's Bantamweight (51-54kg) Semi-Final",
+         "Men's Bantamweight (51-54kg) Semi-Final",
+         "Men's Light Welterweight (60-63.5kg) Semi-Final",
+         "Men's Light Welterweight (60-63.5kg) Semi-Final",
+         "Men's Light Middleweight (67-71kg) Semi-Final",
+         "Men's Light Middleweight (67-71kg) Semi-Final",
+         "Women's Lightweight (66-70kg) Semi-Final",
+         "Women's Lightweight (66-70kg) Semi-Final",
+         "Men's Heavyweight (86-92kg) Semi-Final",
+         "Men's Heavyweight (86-92kg) Semi-Final"
+
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Netball",
+        "dateTimeStart": "2022-08-06T14:30:00.000+01:00",
+        "dateTimeEnd": "2022-08-06T16:30:00.000+01:00",
+        "subEvents": [
+         "Semi-final 2"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Table Tennis and Para Table Tennis",
+        "dateTimeStart": "2022-08-06T16:00:00.000+01:00",
+        "dateTimeEnd": "2022-08-06T22:00:00.000+01:00",
+        "subEvents": [
+         "Women's Doubles Quarter-Finals",
+         "Women's Singles Classes 6-10 Bronze Medal Match",
+         "Women's Singles Classes 6-10 Gold Medal Match",
+         "Men's Singles Classes 3-5 Bronze Medal Match",
+         "Men's Singles Classes 3-5 Gold Medal Match",
+         "Women's Singles Classes 3-5 Bronze Medal Match",
+         "Women's Singles Classes 3-5 Gold Medal Match",
+         "Women's Singles Classes 6-10 Medal Ceremony",
+         "Men's Singles Classes 3-5 Medal Ceremony",
+         "Women's Singles Classes 3-5 Medal Ceremony"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Badminton",
+        "dateTimeStart": "2022-08-06T17:30:00.000+01:00",
+        "dateTimeEnd": "2022-08-06T22:00:00.000+01:00",
+        "subEvents": [
+         "Men's Singles Quarter-Final",
+         "Women's Singles Quarter-Final",
+         "Men's Doubles Quarter-Final",
+         "Women's Doubles Quarter-Final",
+         "Mixed Doubles Quarter-Final"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Boxing",
+        "dateTimeStart": "2022-08-06T19:00:00.000+01:00",
+        "dateTimeEnd": "2022-08-06T21:30:00.000+01:00",
+        "subEvents": [
+         "Men's Featherweight (54-57kg) Semi-Final",
+         "Men's Featherweight (54-57kg) Semi-Final",
+         "Women's Featherweight (54-57kg) Semi-Final",
+         "Women's Featherweight (54-57kg) Semi-Final",
+         "Men's Welterweight (63.5-67kg) Semi-Final",
+         "Men's Welterweight (63.5-67kg) Semi-Final",
+         "Women's Middleweight (70-75kg) Semi-Final",
+         "Women's Middleweight (70-75kg) Semi-Final",
+         "Men's Super Heavyweight (Over 92kg) Semi-Final",
+         "Men's Super Heavyweight (Over 92kg) Semi-Final"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Badminton",
+        "dateTimeStart": "2022-08-07T09:00:00.000+01:00",
+        "dateTimeEnd": "2022-08-07T14:30:00.000+01:00",
+        "subEvents": [
+         "Men's Singles Semi-Final",
+         "Women's Singles Semi-Final",
+         "Men's Doubles Semi-Final",
+         "Women's Doubles Semi-Final",
+         "Mixed Doubles Semi-Final"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Table Tennis and Para Table Tennis",
+        "dateTimeStart": "2022-08-07T09:30:00.000+01:00",
+        "dateTimeEnd": "2022-08-07T14:45:00.000+01:00",
+        "subEvents": [
+         "Men's Singles Classes 8-10 Bronze Medal Match",
+         "Men's Singles Classes 8-10 Gold Medal Match",
+         "Men's Singles Classes 8-10 Medal Ceremony",
+         "Women's Singles Bronze Medal Match",
+         "Women's Singles Gold Medal Match",
+         "Women's Singles Medal Ceremony",
+         "Men's Doubles Bronze Medal Match",
+         "Men's Doubles Gold Medal Match",
+         "Men's Doubles Medal Ceremony"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Boxing",
+        "dateTimeStart": "2022-08-07T10:30:00.000+01:00",
+        "dateTimeEnd": "2022-08-07T13:00:00.000+01:00",
+        "subEvents": [
+         "Women's Minimumweight (45-48kg) Final Bout",
+         "Men's Flyweight (48-51kg) Final Bout",
+         "Men's Minimumweight Final (45-48kg) Medal Ceremony",
+         "Women's Lightweight Middleweight (66-70kg) Final Bout",
+         "Men's Flyweight Final (48-51kg) Medal Ceremony",
+         "Men's Middleweight (71-75kg) Final Bout",
+         "Women's Light Middleweight (66-70kg) Medal Ceremony",
+         "Men's Light Heavyweight (75-80kg) Final Bout",
+         "Men's Middleweight (71-75kg) Medal Ceremony",
+         "Men's Light Heavyweight (75-80kg) Medal Ceremony"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Netball",
+        "dateTimeStart": "2022-08-07T13:30:00.000+01:00",
+        "dateTimeEnd": "2022-08-07T15:30:00.000+01:00",
+        "subEvents": [
+         "Bronze Medal Match"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Boxing",
+        "dateTimeStart": "2022-08-07T14:30:00.000+01:00",
+        "dateTimeEnd": "2022-08-07T17:30:00.000+01:00",
+        "subEvents": [
+         "Women's Light Flyweight (48-50kg) Final Bout",
+         "Men's Bantamweight (51-54kg) Final Bout",
+         "Men's Light Flyweight (48-50kg) Medal Ceremony",
+         "Men's Light Welterweight (60-63.5kg) Final Bout",
+         "Men's Bantamweight (51-54kg) Medal Ceremony",
+         "Men's Light Middleweight (67-71kg) Final Bout",
+         "Men's Light Welterweight (60-63.5kg) Medal Ceremony",
+         "Women's Lightweight (66-70kg) Final Bout",
+         "Men's Light Middleweight (67-71kg) Medal Ceremony",
+         "Men's Heavyweight (86-92kg) Final Bout",
+         "Women's Lightweight (66-70kg) Medal Ceremony",
+         "Men's Heavyweight (86-92kg) Medal Ceremony"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Table Tennis and Para Table Tennis",
+        "dateTimeStart": "2022-08-07T16:00:00.000+01:00",
+        "dateTimeEnd": "2022-08-07T21:00:00.000+01:00",
+        "subEvents": [
+         "Women's Doubles Semi-Final",
+         "Men's Singles Semi-Final",
+         "Mixed Doubles Bronze Medal Match",
+         "Mixed Doubles Gold Medal Match",
+         "Mixed Doubles Medal Ceremony"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Badminton",
+        "dateTimeStart": "2022-08-07T17:00:00.000+01:00",
+        "dateTimeEnd": "2022-08-07T22:30:00.000+01:00",
+        "subEvents": [
+         "Men's Singles Bronze Medal Match",
+         "Women's Singles Bronze Medal Match",
+         "Men's Doubles Bronze Medal Match",
+         "Women's Doubles Bronze Medal Match",
+         "Mixed Doubles Bronze Medal Match"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Boxing",
+        "dateTimeStart": "2022-08-07T19:00:00.000+01:00",
+        "dateTimeEnd": "2022-08-07T21:30:00.000+01:00",
+        "subEvents": [
+         "Men's Featherweight (54-57kg) Final Bout",
+         "Women's Featherweight (54-57kg) Final Bout",
+         "Men's Featherweight (54-57kg) Medal Ceremony",
+         "Men's Welterweight (63.5-67kg) Final Bout",
+         "Women's Featherweight (54-57kg) Medal Ceremony",
+         "Women's Middleweight (70-75kg) Final Bout",
+         "Men's Welterweight (63.5-67kg) Medal Ceremony",
+         "Men's Super Heavyweight (Over 92kg) Final Bout",
+         "Women's Middleweight (70-75kg) Medal Ceremony",
+         "Men's Super Heavyweight (Over 92kg) Medal Ceremony"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Netball",
+        "dateTimeStart": "2022-08-07T20:30:00.000+01:00",
+        "dateTimeEnd": "2022-08-07T22:30:00.000+01:00",
+        "subEvents": [
+         "Gold Medal Match",
+         "Medal Ceremony"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Badminton",
+        "dateTimeStart": "2022-08-08T08:00:00.000+01:00",
+        "dateTimeEnd": "2022-08-08T14:15:00.000+01:00",
+        "subEvents": [
+         "Men's Singles Gold Medal Match",
+         "Men's Singles Medal Ceremony",
+         "Women's Singles Gold Medal Match",
+         "Women's Singles Medal Ceremony",
+         "Men's Doubles Gold Medal Match",
+         "Men's Doubles Medal Ceremony",
+         "Women's Doubles Gold Medal Match",
+         "Women's Doubles Medal Ceremony",
+         "Mixed Doubles Gold Medal Match",
+         "Mixed Doubles Medal Ceremony"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Table Tennis and Para Table Tennis",
+        "dateTimeStart": "2022-08-08T09:30:00.000+01:00",
+        "dateTimeEnd": "2022-08-08T13:15:00.000+01:00",
+        "subEvents": [
+         "Women's Doubles Bronze Medal Match",
+         "Women's Doubles Gold Medal Match",
+         "Women's Doubles Medal Ceremony",
+         "Men's Singles Bronze Medal Match",
+         "Men's Singles Gold Medal Match",
+         "Men's Singles Medal Ceremony"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
       }
     ]
   },
@@ -127,12 +2245,383 @@
     "latitude": 	52.48929802639806,
     "longitude":  -1.9895367821356418,
     "wheelchair": true,
+    "venue": true,
     "events": [
       {
-        "Name": "",
-        "Date": "",
-        "Time": "",
-        "Description": ""
+        "name": "Aquatics - Swimming and Para Swimming",
+        "dateTimeStart": "2022-07-29T10:30:00.000+01:00",
+        "dateTimeEnd": "2022-07-29T12:30:00.000+01:00",
+        "subEvents": [
+         "Men's 400m Freestyle Heats",
+         "Women's 400m Individual Medley Heats",
+         "Women's 200m Freestyle Heats",
+         "Men's 100m Backstroke S9 Heat",
+         "Women's 100m Freestyle S9 Heat",
+         "Men's 50m Butterfly Heats",
+         "Women's 50m Breaststroke Heats",
+         "Men's 100m Backstroke Heats",
+         "Women's 100m Butterfly Heats",
+         "Men's 200m Breaststroke Heats",
+         "Mixed 4x100m Freestyle Relay Heats"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Aquatics - Swimming and Para Swimming",
+        "dateTimeStart": "2022-07-29T19:00:00.000+01:00",
+        "dateTimeEnd": "2022-07-29T22:00:00.000+01:00",
+        "subEvents": [
+         "Women's 400m Individual Medley Final",
+         "Women's 200m Freestyle Final",
+         "Men's 400m Freestyle Final",
+         "Men's 400m Freestyle Medal Ceremony",
+         "Women's 400m Individual Medley Medal Ceremony",
+         "Men's 100m Backstroke S9 Final",
+         "Women's 100m Freestyle S9 Final",
+         "Women's 200m Freestyle Medal Ceremony",
+         "Men's 50m Butterfly Semi-Finals",
+         "Women's 50m Breaststroke Semi-Finals",
+         "Men's 100m Backstroke S9 Medal Ceremony",
+         "Women's 100m Freestyle S9 Medal Ceremony",
+         "Men's 100m Backstroke Semi-Final",
+         "Women's 100m Butterfly Semi-Final",
+         "Men's 200m Breaststroke Final",
+         "Mixed 4x100m Freestyle Relay Final",
+         "Men's 200m Breaststroke Medal Ceremony",
+         "Mixed 4x100m Freestyle Relay Medal Ceremony"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Aquatics - Swimming and Para Swimming",
+        "dateTimeStart": "2022-07-30T10:30:00.000+01:00",
+        "dateTimeEnd": "2022-07-30T12:30:00.000+01:00",
+        "subEvents": [
+         "Men's 200m Freestyle Heats",
+         "Women's 50m Freestyle Heats",
+         "Men's 50m Freestyle S13 Heat",
+         "Women's 50m Freestyle S13 Heat",
+         "Men's 100m Breaststroke Heats",
+         "Women's 100m Backstroke Heats",
+         "Men's 400m Individual Medley Heats",
+         "Women's 4x100m Freestyle Relay Heats",
+         "Men's 4x100m Freestyle Relay Heats"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Aquatics - Swimming and Para Swimming",
+        "dateTimeStart": "2022-07-30T19:00:00.000+01:00",
+        "dateTimeEnd": "2022-07-30T22:00:00.000+01:00",
+        "subEvents": [
+         "Men's 50m Butterfly Final",
+         "Women's 50m Breaststroke Final",
+         "Men's 200m Freestyle Final",
+         "Men's 50m Butterfly Medal Ceremony",
+         "Women's 50m Breaststroke Medal Ceremony",
+         "Women's 50m Freestyle Semi-Finals",
+         "Men's 50m Freestyle S13 Final",
+         "Women's 50m Freestyle S13 Final",
+         "Men's 200m Freestyle Medal Ceremony",
+         "Men's 100m Breaststroke Semi-Finals",
+         "Women's 100m Backstroke Semi-Finals",
+         "Men's 50m Freestyle S13 Medal Ceremony",
+         "Women's 50m Freestyle S13 Medal Ceremony",
+         "Men's 400m Individual Medley Final",
+         "Women's 100m Butterfly Final",
+         "Men's 100m Backstroke Final",
+         "Men's 400m Individual Medley Medal Ceremony",
+         "Women's 100m Butterfly Medal Ceremony",
+         "Men's 100m Backstroke Medal Ceremony",
+         "Women's 4x100m Freestyle Relay Final",
+         "Men's 4x100m Freestyle Relay Final",
+         "Women's 4x100m Freestyle Relay Medal Ceremony",
+         "Men's 4x100m Freestyle Relay Medal Ceremony"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Aquatics - Swimming and Para Swimming",
+        "dateTimeStart": "2022-07-31T10:30:00.000+01:00",
+        "dateTimeEnd": "2022-07-31T12:30:00.000+01:00",
+        "subEvents": [
+         "Men's 200m Butterfly Heats",
+         "Women's 200m Breaststroke Heats",
+         "Men's 100m Breaststroke SB8 Heat",
+         "Women's 100m Backstroke S8 Heat",
+         "Men's 50m Backstroke Heats",
+         "Women's 50m Butterfly Heats",
+         "Men's 100m Freestyle Heats",
+         "Mixed 4x100m Freestyle Relay S14 Heat",
+         "Women's 4x200m Freestyle Relay Heats"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Aquatics - Swimming and Para Swimming",
+        "dateTimeStart": "2022-07-31T19:00:00.000+01:00",
+        "dateTimeEnd": "2022-07-31T22:00:00.000+01:00",
+        "subEvents": [
+         "Women's 50m Freestyle Final",
+         "Men's 200m Butterfly Final",
+         "Women's 200m Breaststroke Final",
+         "Women's 50m Freestyle Medal Ceremony",
+         "Men's 100m Breaststroke SB8 Final",
+         "Women's 100m Backstroke S8 Final",
+         "Men's 200m Butterfly Medal Ceremony",
+         "Women's 200m Breaststroke Medal Ceremony",
+         "Men's 50m Backstroke Semi-Finals",
+         "Women's 50m Butterfly Semi-Finals",
+         "Men's 100m Freestyle Semi-Finals",
+         "Men's 100m Breaststroke SB8 Medal Ceremony",
+         "Women's 100m Backstroke S8 Medal Ceremony",
+         "Women's 100m Backstroke Final",
+         "Men's 100m Breaststroke Final",
+         "Women's 100m Backstroke Medal Ceremony",
+         "Men's 100m Breaststroke Medal Ceremony",
+         "Mixed 4x100m Freestyle Relay S14 Final",
+         "Women's 4x200m Freestyle Relay Final",
+         "Mixed 4x100m Freestyle Relay S14 Medal Ceremony",
+         "Women's 4x200m Freestyle Relay Medal Ceremony"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Aquatics - Swimming and Para Swimming",
+        "dateTimeStart": "2022-08-01T10:30:00.000+01:00",
+        "dateTimeEnd": "2022-08-01T12:30:00.000+01:00",
+        "subEvents": [
+         "Women's 200m Backstroke Heats",
+         "Men's 50m Breaststroke Heats",
+         "Women's 100m Freestyle Heats",
+         "Men's 100m Butterfly Heats",
+         "Women's 200m Individual Medley Heats",
+         "Men's 50m Freestyle S7 Heat",
+         "Women's 100m Breaststroke SB6 Heat",
+         "Women's 100m Breaststroke Heats",
+         "Men's 4x200m Freestyle Relay Heats",
+         "Women's 800m Freestyle Heats"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Aquatics - Swimming and Para Swimming",
+        "dateTimeStart": "2022-08-01T19:00:00.000+01:00",
+        "dateTimeEnd": "2022-08-01T22:00:00.000+01:00",
+        "subEvents": [
+         "Men's 100m Freestyle Final",
+         "Women's 200m Backstroke Final",
+         "Men's 100m Freestyle Medal Ceremony",
+         "Men's 50m Breaststroke Semi-Finals",
+         "Women's 100m Freestyle Semi-Finals",
+         "Men's 100m Butterfly Semi-Finals",
+         "Women's 200m Backstroke Medal Ceremony",
+         "Women's 200m Individual Medley Final",
+         "Men's 50m Freestyle S7 Final",
+         "Women's 100m Breaststroke SB6 Final",
+         "Women's 200m Individual Medley Medal Ceremony",
+         "Men's 50m Backstroke Final",
+         "Women's 50m Butterfly Final",
+         "Men's 50m Freestyle S7 Medal Ceremony",
+         "Women's 100m Breaststroke SB6 Medal Ceremony",
+         "Women's 100m Breaststroke Semi-Finals",
+         "Men's 4x200m Freestyle Relay Final",
+         "Men's 50m Backstroke Medal Ceremony",
+         "Women's 50m Butterfly Medal Ceremony",
+         "Men's 4x200m Freestyle Relay Medal Ceremony"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Aquatics - Swimming and Para Swimming",
+        "dateTimeStart": "2022-08-02T10:30:00.000+01:00",
+        "dateTimeEnd": "2022-08-02T12:30:00.000+01:00",
+        "subEvents": [
+         "Men's 200m Backstroke Heats",
+         "Women's 200m Butterfly Heats",
+         "Men's 100m Butterfly S10 Heat",
+         "Women's 200m Individual Medley SM10 Heat",
+         "Men's 50m Freestyle Heats",
+         "Women's 50m Backstroke Heats",
+         "Mixed 4x100m Medley Relay Heats",
+         "Men's 1500m Freestyle Heats"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Aquatics - Swimming and Para Swimming",
+        "dateTimeStart": "2022-08-02T19:00:00.000+01:00",
+        "dateTimeEnd": "2022-08-02T22:00:00.000+01:00",
+        "subEvents": [
+         "Women's 100m Freestyle Final",
+         "Men's 100m Butterfly Final",
+         "Women's 100m Breaststroke Final",
+         "Women's 100m Freestyle Medal Ceremony",
+         "Men's 100m Butterfly Medal Ceremony",
+         "Men's 200m Backstroke Final",
+         "Women's 200m Butterfly Final",
+         "Women's 100m Breaststroke Medal Ceremony",
+         "Men's 200m Backstroke Medal Ceremony",
+         "Men's 100m Butterfly S10 Final",
+         "Women's 200m Individual Medley SM10 Final",
+         "Women's 200m Butterfly Medal Ceremony",
+         "Men's 50m Freestyle Semi-Finals",
+         "Women's 50m Backstroke Semi-Finals",
+         "Men's 50m Breaststroke Final",
+         "Men's 100m Butterfly S10 Medal Ceremony",
+         "Women's 200m Individual Medley SM10 Medal Ceremony",
+         "Men's 50m Breaststroke Medal Ceremony",
+         "Women's 800m Freestyle Final",
+         "Mixed 4x100m Medley Relay Final",
+         "Women's 800m Freestyle Medal Ceremony",
+         "Mixed 4x100m Medley Relay Medal Ceremony"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Aquatics - Swimming and Para Swimming",
+        "dateTimeStart": "2022-08-03T10:30:00.000+01:00",
+        "dateTimeEnd": "2022-08-03T12:30:00.000+01:00",
+        "subEvents": [
+         "Men's 200m Individual Medley Heats",
+         "Women's 200m Freestyle S14 Heat",
+         "Men's 200m Freestyle S14 Heat",
+         "Women's 400m Freestyle Heats",
+         "Mixed 4 x 100m Medley Relay 34 Point* Heat",
+         "Women's 4x100m Medley Relay Heats",
+         "Men's 4x100m Medley Relay Heats"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Aquatics - Swimming and Para Swimming",
+        "dateTimeStart": "2022-08-03T19:00:00.000+01:00",
+        "dateTimeEnd": "2022-08-03T22:00:00.000+01:00",
+        "subEvents": [
+         "Men's 200m Individual Medley Final",
+         "Women's 200m Freestyle S14 Final",
+         "Men's 200m Freestyle S14 Final",
+         "Men's 200m Individual Medley Medal Ceremony",
+         "Women's 400m Freestyle Final",
+         "Men's 200m Freestyle S14 Medal Ceremony",
+         "Women's 200m Freestyle S14 Medal Ceremony",
+         "Men's 50m Freestyle Final",
+         "Women's 50m Backstroke Final",
+         "Women's 400m Freestyle Medal Ceremony",
+         "Men's 50m Freestyle Medal Ceremony",
+         "Men's 1500m Freestyle Final",
+         "Women's 50m Backstroke Medal Ceremony",
+         "Men's 1500m Freestyle Medal Ceremony",
+         "Mixed 4x100m Medley Relay 34 Point Final",
+         "Women's 4x100m Medley Relay Final",
+         "Men's 4x100m Medley Relay Final",
+         "Mixed 4x100m Medley Relay 34 Point Medal Ceremony",
+         "Women's 4x100m Medley Relay Medal Ceremony",
+         "Men's 4x100m Medley Relay Medal Ceremony"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Aquatics - Diving",
+        "dateTimeStart": "2022-08-04T13:00:00.000+01:00",
+        "dateTimeEnd": "2022-08-04T15:30:00.000+01:00",
+        "subEvents": [
+         "Men's 1m Springboard Preliminary",
+         "Women's 10m Platform Preliminary"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Aquatics - Diving",
+        "dateTimeStart": "2022-08-04T18:00:00.000+01:00",
+        "dateTimeEnd": "2022-08-04T21:00:00.000+01:00",
+        "subEvents": [
+         "Men's 1m Springboard Final",
+         "Women's 10m Platform Final",
+         "Men's 1m Springboard Medal Ceremony",
+         "Women's 10m Platform Medal Ceremony"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Aquatics - Diving",
+        "dateTimeStart": "2022-08-05T10:00:00.000+01:00",
+        "dateTimeEnd": "2022-08-05T13:00:00.000+01:00",
+        "subEvents": [
+         "Women's 1m Springboard Preliminary",
+         "Men's Synchronised 3m Springboard Final",
+         "Men's Synchronised 3m Springboard Medal Ceremony"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Aquatics - Diving",
+        "dateTimeStart": "2022-08-05T18:00:00.000+01:00",
+        "dateTimeEnd": "2022-08-05T21:00:00.000+01:00",
+        "subEvents": [
+         "Women's 1m Springboard Final",
+         "Men's Synchronised 10m Platform Final",
+         "Women's 1m Springboard Medal Ceremony",
+         "Men's Synchronised 10m Platform Medal Ceremony"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Aquatics - Diving",
+        "dateTimeStart": "2022-08-06T10:00:00.000+01:00",
+        "dateTimeEnd": "2022-08-06T13:00:00.000+01:00",
+        "subEvents": [
+         "Men's 3m Springboard Preliminary",
+         "Women's Synchronised 3m Springboard Final",
+         "Women's Synchronised 3m Springboard Medal Ceremony"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Aquatics - Diving",
+        "dateTimeStart": "2022-08-06T18:00:00.000+01:00",
+        "dateTimeEnd": "2022-08-06T21:00:00.000+01:00",
+        "subEvents": [
+         "Men's 3m Springboard Final",
+         "Women's Synchronised 10m Platform Final",
+         "Men's 3m Springboard Medal Ceremony",
+         "Women's Synchronised 10m Platform Medal Ceremony"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Aquatics - Diving",
+        "dateTimeStart": "2022-08-07T10:00:00.000+01:00",
+        "dateTimeEnd": "2022-08-07T13:00:00.000+01:00",
+        "subEvents": [
+         "Men's 10m Platform Preliminary",
+         "Women's 3m Springboard Preliminary"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Aquatics - Diving",
+        "dateTimeStart": "2022-08-07T17:30:00.000+01:00",
+        "dateTimeEnd": "2022-08-07T20:30:00.000+01:00",
+        "subEvents": [
+         "Men's 10m Platform Final",
+         "Women's 3m Springboard Final",
+         "Men's 10m Platform Medal Ceremony",
+         "Women's 3m Springboard Medal Ceremony"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Aquatics - Diving",
+        "dateTimeStart": "2022-08-08T10:00:00.000+01:00",
+        "dateTimeEnd": "2022-08-08T13:00:00.000+01:00",
+        "subEvents": [
+         "Mixed Synchronised 3m Springboard Final",
+         "Mixed Synchronised 10m Platform Final",
+         "Mixed Synchronised 3m Springboard Medal Ceremony",
+         "Mixed Synchronised 10m Platform Medal Ceremony"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
       }
     ]
   },
@@ -144,12 +2633,367 @@
     "latitude": 	52.47198389646618,
     "longitude":  -1.891131355897587,
     "wheelchair": true,
+    "venue": true,
     "events": [
       {
-        "Name": "",
-        "Date": "",
-        "Time": "",
-        "Description": ""
+        "name": "Basketball 3x3 and Wheelchair Basketball 3x3",
+        "dateTimeStart": "2022-07-29T15:30:00.000+01:00",
+        "dateTimeEnd": "2022-07-29T18:00:00.000+01:00",
+        "subEvents": [
+         "Men's Basketball 3x3 - Group A",
+         "Women's Basketball 3x3 - Group A",
+         "Men's Wheelchair Basketball 3x3 - Group A",
+         "Women's Wheelchair Basketball 3x3 - Group A",
+         "Men's Basketball 3x3 - Group A",
+         "Women's Basketball 3x3 - Group A"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Basketball 3x3 and Wheelchair Basketball 3x3",
+        "dateTimeStart": "2022-07-29T19:30:00.000+01:00",
+        "dateTimeEnd": "2022-07-29T22:00:00.000+01:00",
+        "subEvents": [
+         "Men's Basketball 3x3 - Group A",
+         "Women's Basketball 3x3 - Group A",
+         "Men's Wheelchair Basketball 3x3 - Group A",
+         "Women's Wheelchair Basketball 3x3 - Group A",
+         "Men's Basketball 3x3 - Group A",
+         "Women's Basketball 3x3 - Group A"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Athletics - Marathon",
+        "dateTimeStart": "2022-07-30T07:00:00.000+01:00",
+        "dateTimeEnd": "2022-07-30T13:30:00.000+01:00",
+        "subEvents": [
+         "Men's Marathon T53/54 Final",
+         "Women's Marathon T53/54 Final",
+         "Men's Marathon Final",
+         "Women's Marathon Final"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Beach Volleyball",
+        "dateTimeStart": "2022-07-30T14:30:00.000+01:00",
+        "dateTimeEnd": "2022-07-30T17:30:00.000+01:00",
+        "subEvents": [
+         "Men's Group Match",
+         "Men's Group Match",
+         "Women's Group Match"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Basketball 3x3 and Wheelchair Basketball 3x3",
+        "dateTimeStart": "2022-07-30T15:30:00.000+01:00",
+        "dateTimeEnd": "2022-07-30T18:30:00.000+01:00",
+        "subEvents": [
+         "Men's Basketball 3x3 - Group B",
+         "Women's Basketball 3x3 - Group B",
+         "Men's Wheelchair Basketball 3x3 - Group B",
+         "Women's Wheelchair Basketball 3x3 - Group B",
+         "Men's Basketball 3x3 - Group B",
+         "Women's Basketball 3x3 - Group B"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Beach Volleyball",
+        "dateTimeStart": "2022-07-30T19:00:00.000+01:00",
+        "dateTimeEnd": "2022-07-30T22:00:00.000+01:00",
+        "subEvents": [
+         "Women's Group Match",
+         "Men's Group Match",
+         "Men's Group Match"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Basketball 3x3 and Wheelchair Basketball 3x3",
+        "dateTimeStart": "2022-07-30T19:30:00.000+01:00",
+        "dateTimeEnd": "2022-07-30T22:00:00.000+01:00",
+        "subEvents": [
+         "Men's Basketball 3x3 - Group B",
+         "Women's Basketball 3x3 - Group B",
+         "Men's Wheelchair Basketball 3x3 - Group A",
+         "Women's Wheelchair Basketball 3x3 - Group A",
+         "Men's Basketball 3x3 - Group B",
+         "Women's Basketball 3x3 - Group B"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Beach Volleyball",
+        "dateTimeStart": "2022-07-31T14:30:00.000+01:00",
+        "dateTimeEnd": "2022-07-31T17:30:00.000+01:00",
+        "subEvents": [
+         "Women's Group Match",
+         "Men's Group Match",
+         "Men's Group Match"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Basketball 3x3 and Wheelchair Basketball 3x3",
+        "dateTimeStart": "2022-07-31T15:30:00.000+01:00",
+        "dateTimeEnd": "2022-07-31T18:00:00.000+01:00",
+        "subEvents": [
+         "Men's Basketball 3x3 - Group A",
+         "Women's Basketball 3x3 - Group A",
+         "Men's Wheelchair Basketball 3x3 - Group A",
+         "Women's Wheelchair Basketball 3x3 - Group A",
+         "Men's Basketball 3x3 - Group A",
+         "Women's Basketball 3x3 - Group A"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Beach Volleyball",
+        "dateTimeStart": "2022-07-31T19:00:00.000+01:00",
+        "dateTimeEnd": "2022-07-31T22:00:00.000+01:00",
+        "subEvents": [
+         "Men's Group Match",
+         "Women's Group Match",
+         "Women's Group Match"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Basketball 3x3 and Wheelchair Basketball 3x3",
+        "dateTimeStart": "2022-07-31T19:30:00.000+01:00",
+        "dateTimeEnd": "2022-07-31T22:00:00.000+01:00",
+        "subEvents": [
+         "Men's Basketball 3x3 - Group B",
+         "Women's Basketball 3x3 - Group B",
+         "Men's Wheelchair Basketball 3x3 - Group B",
+         "Women's Wheelchair Basketball 3x3 - Group B",
+         "Men's Basketball 3x3 - Group B",
+         "Women's Basketball 3x3 - Group B"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Beach Volleyball",
+        "dateTimeStart": "2022-08-01T14:30:00.000+01:00",
+        "dateTimeEnd": "2022-08-01T17:30:00.000+01:00",
+        "subEvents": [
+         "Men's Group Match",
+         "Men's Group Match",
+         "Women's Group Match"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Basketball 3x3 and Wheelchair Basketball 3x3",
+        "dateTimeStart": "2022-08-01T15:30:00.000+01:00",
+        "dateTimeEnd": "2022-08-01T18:00:00.000+01:00",
+        "subEvents": [
+         "Men's Basketball 3x3 - Quarter-final 1",
+         "Women's Basketball 3x3 - Quarter-final 1",
+         "Women's Wheelchair Basketball 3x3 - Semi-final 1",
+         "Women's Wheelchair Basketball 3x3 - Semi-final 2",
+         "Men's Basketball 3x3 - Quarter-final 2",
+         "Women's Basketball 3x3 - Quarter-final 2"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Beach Volleyball",
+        "dateTimeStart": "2022-08-01T19:00:00.000+01:00",
+        "dateTimeEnd": "2022-08-01T22:00:00.000+01:00",
+        "subEvents": [
+          "Women's Group Match",
+         "Men's Group Match",
+         "Women's Group Match"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Basketball 3x3 and Wheelchair Basketball 3x3",
+        "dateTimeStart": "2022-08-01T19:30:00.000+01:00",
+        "dateTimeEnd": "2022-08-01T22:00:00.000+01:00",
+        "subEvents": [
+          "Men's Basketball 3x3 - Semi-final 1",
+          "Women's Basketball 3x3 - Semi-final 1",
+          "Men's Wheelchair Basketball 3x3 - Semi-final 1",
+          "Men's Wheelchair Basketball 3x3 - Semi-final 2",
+          "Women's Basketball 3x3 - Semi-final 2",
+          "Men's Basketball 3x3 - Semi-final 2"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Beach Volleyball",
+        "dateTimeStart": "2022-08-02T14:30:00.000+01:00",
+        "dateTimeEnd": "2022-08-02T17:30:00.000+01:00",
+        "subEvents": [
+         "Women's Group Match",
+         "Women's Group Match",
+         "Men's Group Match"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Basketball 3x3 and Wheelchair Basketball 3x3",
+        "dateTimeStart": "2022-08-02T15:30:00.000+01:00",
+        "dateTimeEnd": "2022-08-02T18:00:00.000+01:00",
+        "subEvents": [
+         "Men's Wheelchair Basketball 3x3 - Classification Match 5v6",
+         "Women's Wheelchair Basketball 3x3 - Classification Match 5v6",
+         "Men's Basketball 3x3 - Bronze Medal Match",
+         "Women's Basketball 3x3 - Bronze Medal Match",
+         "Men's Wheelchair Basketball 3x3 - Bronze Medal Match",
+         "Women's Wheelchair Basketball 3x3 - Bronze Medal Match"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Beach Volleyball",
+        "dateTimeStart": "2022-08-02T19:00:00.000+01:00",
+        "dateTimeEnd": "2022-08-02T22:00:00.000+01:00",
+        "subEvents": [
+         "Men's Group Match",
+         "Women's Group Match",
+         "Women's Group Match"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Basketball 3x3 and Wheelchair Basketball 3x3",
+        "dateTimeStart": "2022-08-02T19:30:00.000+01:00",
+        "dateTimeEnd": "2022-08-02T22:00:00.000+01:00",
+        "subEvents": [
+          "Men's Wheelchair Basketball 3x3 - Gold Medal Match",
+          "Women's Wheelchair Basketball 3x3 - Gold Medal Match",
+          "Men's Basketball 3x3 - Gold Medal Match",
+          "Women's Basketball 3x3 - Gold Medal Match",
+          "Men's Wheelchair Basketball 3x3 - Medal Ceremony",
+          "Women's Wheelchair Basketball 3x3 - Medal Ceremony",
+          "Men's Basketball 3x3 - Medal Ceremony",
+          "Women's Basketball 3x3 - Medal Ceremony"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Beach Volleyball",
+        "dateTimeStart": "2022-08-03T14:30:00.000+01:00",
+        "dateTimeEnd": "2022-08-03T17:30:00.000+01:00",
+        "subEvents": [
+          "Men's Group Match",
+          "Men's Group Match",
+          "Women's Group Match"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Beach Volleyball",
+        "dateTimeStart": "2022-08-03T19:00:00.000+01:00",
+        "dateTimeEnd": "2022-08-03T22:00:00.000+01:00",
+        "subEvents": [
+          "Women's Group Match",
+          "Men's Group Match",
+          "Men's Group Match"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Beach Volleyball",
+        "dateTimeStart": "2022-08-04T14:30:00.000+01:00",
+        "dateTimeEnd": "2022-08-04T17:30:00.000+01:00",
+        "subEvents": [
+          "Women's Group Match",
+          "Women's Group Match",
+          "Men's Group Match"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Beach Volleyball",
+        "dateTimeStart": "2022-08-04T19:00:00.000+01:00",
+        "dateTimeEnd": "2022-08-04T22:00:00.000+01:00",
+        "subEvents": [
+          "Men's Group Match",
+          "Women's Group Match",
+          "Women's Group Match"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Beach Volleyball",
+        "dateTimeStart": "2022-08-05T11:00:00.000+01:00",
+        "dateTimeEnd": "2022-08-05T13:00:00.000+01:00",
+        "subEvents": [
+          "Men's Quarter-final 1",
+          "Men's Quarter-final 2"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Beach Volleyball",
+        "dateTimeStart": "2022-08-05T14:30:00.000+01:00",
+        "dateTimeEnd": "2022-08-05T17:30:00.000+01:00",
+        "subEvents": [
+          "Women's Quarter-final 1",
+          "Women's Quarter-final 2",
+          "Men's Quarter-final 3"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Beach Volleyball",
+        "dateTimeStart": "2022-08-05T19:00:00.000+01:00",
+        "dateTimeEnd": "2022-08-05T22:00:00.000+01:00",
+        "subEvents": [
+          "Men's Quarter-final 4",
+          "Women's Quarter-final 3",
+          "Women's Quarter-final 4"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Beach Volleyball",
+        "dateTimeStart": "2022-08-06T15:00:00.000+01:00",
+        "dateTimeEnd": "2022-08-06T17:00:00.000+01:00",
+        "subEvents": [
+          "Men's Semi-final 1",
+          "Men's Semi-final 2"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Beach Volleyball",
+        "dateTimeStart": "2022-08-06T20:00:00.000+01:00",
+        "dateTimeEnd": "2022-08-06T22:00:00.000+01:00",
+        "subEvents": [
+          "Women's Semi-final 1",
+          "Women's Semi-final 2"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Beach Volleyball",
+        "dateTimeStart": "2022-08-07T15:00:00.000+01:00",
+        "dateTimeEnd": "2022-08-07T17:30:00.000+01:00",
+        "subEvents": [
+          "Men's Bronze Medal",
+          "Men's Gold Medal",
+          "Men's Medal Ceremony"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Beach Volleyball",
+        "dateTimeStart": "2022-08-07T20:00:00.000+01:00",
+        "dateTimeEnd": "2022-08-07T22:30:00.000+01:00",
+        "subEvents": [
+          "Women's Bronze Medal",
+          "Women's Gold Medal",
+          "Women's Medal Ceremony"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
       }
     ]
   },
@@ -161,12 +3005,33 @@
     "latitude": 	52.556218598432785,
     "longitude":  -1.844282242871684,
     "wheelchair": false,
+    "venue": true,
     "events": [
       {
-        "Name": "",
-        "Date": "",
-        "Time": "",
-        "Description": ""
+        "name": "Triathlon and Para Triathlon",
+        "dateTimeStart": "2022-07-29T11:00:00.000+01:00",
+        "dateTimeEnd": "2022-07-29T16:00:00.000+01:00",
+        "subEvents": [
+          "Women's Individual (Sprint Distance) Final",
+          "Women's Individual (Sprint Distance) Medal Ceremony",
+          "Men's Individual (Sprint Distance) Final",
+          "Men's Individual (Sprint Distance) Medal Ceremony"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Triathlon and Para Triathlon",
+        "dateTimeStart": "2022-07-31T11:00:00.000+01:00",
+        "dateTimeEnd": "2022-07-31T16:20:00.000+01:00",
+        "subEvents": [
+          "Men's PTVI Final",
+          "Women's PTVI Final",
+          "Men's PTVI Medal Ceremony",
+          "Women's PTVI Medal Ceremony",
+          "Mixed Relay Team Final",
+          "Mixed Relay Team Medal Ceremony"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
       }
     ]
   },
@@ -178,13 +3043,602 @@
     "latitude": 	52.453289713437236,
     "longitude":  -1.927891507775706,
     "wheelchair": true,
+    "venue": true,
     "events": [
       {
-        "Name": "",
-        "Date": "",
-        "Time": "",
-        "Description": ""
+        "name": "Hockey",
+        "dateTimeStart": "2022-07-29T09:00:00.000+01:00",
+        "dateTimeEnd": "2022-07-29T12:30:00.000+01:00",
+        "subEvents": [
+          "Women's Group Match",
+          "New Zealand v Kenya",
+          "South Africa v Scotland"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Squash",
+        "dateTimeStart": "2022-07-29T12:00:00.000+01:00",
+        "dateTimeEnd": "2022-07-29T15:15:00.000+01:00",
+        "subEvents": [
+          "Women's Singles Preliminary Round of 64",
+          "Men's Singles Preliminary Round of 64",
+          "Men's Singles Preliminary Round of 64",
+          "Men's Singles Preliminary Round of 64",
+          "Men's Singles Preliminary Round of 64"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Hockey",
+        "dateTimeStart": "2022-07-29T14:00:00.000+01:00",
+        "dateTimeEnd": "2022-07-29T17:30:00.000+01:00",
+        "subEvents": [
+          "Women's Group Match",
+          "India v Ghana",
+          "Canada v Wales"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Squash",
+        "dateTimeStart": "2022-07-29T18:00:00.000+01:00",
+        "dateTimeEnd": "2022-07-29T20:30:00.000+01:00",
+        "subEvents": [
+          "Men's Singles Preliminary Round of 64",
+          "Men's Singles Preliminary Round of 64",
+          "Men's Singles Preliminary Round of 64",
+          "Men's Singles Preliminary Round of 64"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Hockey",
+        "dateTimeStart": "2022-07-29T19:00:00.000+01:00",
+        "dateTimeEnd": "2022-07-29T22:30:00.000+01:00",
+        "subEvents": [
+          "Men's Group Match",
+          "England v Ghana",
+          "New Zealand v Scotland"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Hockey",
+        "dateTimeStart": "2022-07-30T09:00:00.000+01:00",
+        "dateTimeEnd": "2022-07-30T12:30:00.000+01:00",
+        "subEvents": [
+          "Men's Group Match",
+          "South Africa v Pakistan",
+          "Canada v Wales"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Squash",
+        "dateTimeStart": "2022-07-30T12:00:00.000+01:00",
+        "dateTimeEnd": "2022-07-30T14:30:00.000+01:00",
+        "subEvents": [
+          "Women's Singles Preliminary Round of 32",
+          "Men's Singles Preliminary Round of 32",
+          "Women's Singles Preliminary Round of 32",
+          "Men's Singles Preliminary Round of 32"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Hockey",
+        "dateTimeStart": "2022-07-30T14:00:00.000+01:00",
+        "dateTimeEnd": "2022-07-30T17:30:00.000+01:00",
+        "subEvents": [
+          "Women's Group Match",
+          "Australia v Kenya",
+          "England v Ghana"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Squash",
+        "dateTimeStart": "2022-07-30T18:00:00.000+01:00",
+        "dateTimeEnd": "2022-07-30T20:30:00.000+01:00",
+        "subEvents": [
+          "Women's Singles Preliminary Round of 32",
+          "Men's Singles Preliminary Round of 32",
+          "Women's Singles Preliminary Round of 32",
+          "Men's Singles Preliminary Round of 32"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Hockey",
+        "dateTimeStart": "2022-07-30T19:00:00.000+01:00",
+        "dateTimeEnd": "2022-07-30T22:30:00.000+01:00",
+        "subEvents": [
+          "Women's Group Match",
+          "India v Wales",
+          "New Zealand v Scotland"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Hockey",
+        "dateTimeStart": "2022-07-31T09:00:00.000+01:00",
+        "dateTimeEnd": "2022-07-31T12:30:00.000+01:00",
+        "subEvents": [
+          "Men's Group Match",
+          "New Zealand v Pakistan",
+          "Australia v Scotland"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Squash",
+        "dateTimeStart": "2022-07-31T12:00:00.000+01:00",
+        "dateTimeEnd": "2022-07-31T15:00:00.000+01:00",
+        "subEvents": [
+          "Women's Singles Preliminary Round of 16",
+          "Women's Singles Plate Classification Round of 32",
+          "Men's Singles Preliminary Round of 16",
+          "Men's Singles Plate Classification Round of 32",
+          "Women's Singles Preliminary Round of 16",
+          "Men's Singles Plate Classification Round of 32",
+          "Men's Singles Preliminary Round of 16",
+          "Men's Singles Plate Classification Round of 32"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Hockey",
+        "dateTimeStart": "2022-07-31T14:00:00.000+01:00",
+        "dateTimeEnd": "2022-07-31T17:30:00.000+01:00",
+        "subEvents": [
+          "Men's Group Match",
+          "England v Wales",
+          "India v Ghana"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Squash",
+        "dateTimeStart": "2022-07-31T18:00:00.000+01:00",
+        "dateTimeEnd": "2022-07-31T21:00:00.000+01:00",
+        "subEvents": [
+          "Women's Singles Preliminary Round of 16",
+          "Women's Singles Plate Classification Round of 16",
+          "Men's Singles Preliminary Round of 16",
+          "Men's Singles Plate Classification Round of 16",
+          "Women's Singles Preliminary Round of 16",
+          "Women's Singles Plate Classification Round of 16",
+          "Men's Singles Preliminary Round of 16",
+          "Men's Singles Plate Classification Round of 16"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Hockey",
+        "dateTimeStart": "2022-07-31T19:00:00.000+01:00",
+        "dateTimeEnd": "2022-07-31T22:30:00.000+01:00",
+        "subEvents": [
+          "Women's Group Match",
+          "Canada v England",
+          "South Africa v Australia"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Hockey",
+        "dateTimeStart": "2022-08-01T09:00:00.000+01:00",
+        "dateTimeEnd": "2022-08-01T12:30:00.000+01:00",
+        "subEvents": [
+          "Women's Group Match",
+          "Wales v Ghana",
+          "Scotland v Kenya"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Squash",
+        "dateTimeStart": "2022-08-01T12:00:00.000+01:00",
+        "dateTimeEnd": "2022-08-01T15:00:00.000+01:00",
+        "subEvents": [
+          "Women's Singles Quarter-final",
+          "Women's Singles Plate Quarter-final",
+          "Men's Singles Quarter-final",
+          "Men's Singles Plate Quarter-final",
+          "Women's Singles Quarter-final",
+          "Women's Singles Plate Quarter-final",
+          "Men's Singles Quarter-final",
+          "Men's Singles Quarter-final"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Hockey",
+        "dateTimeStart": "2022-08-01T14:00:00.000+01:00",
+        "dateTimeEnd": "2022-08-01T17:30:00.000+01:00",
+        "subEvents": [
+          "Men's Group Match",
+          "Scotland v South Africa",
+          "England v India"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Squash",
+        "dateTimeStart": "2022-08-01T18:00:00.000+01:00",
+        "dateTimeEnd": "2022-08-01T21:00:00.000+01:00",
+        "subEvents": [
+          "Women's Singles Quarter-final",
+          "Women's Singles Plate Quarter-final",
+          "Men's Singles Quarter-final",
+          "Men's Singles Plate Quarter-final",
+          "Women's Singles Quarter-final",
+          "Women's Singles Plate Quarter-final",
+          "Men's Singles Quarter-final",
+          "Men's Singles Plate Quarter-final"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Hockey",
+        "dateTimeStart": "2022-08-01T19:00:00.000+01:00",
+        "dateTimeEnd": "2022-08-01T22:30:00.000+01:00",
+        "subEvents": [
+          "Men's Group Match",
+          "Ghana v Canada",
+          "New Zealand v Australia"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Hockey",
+        "dateTimeStart": "2022-08-02T09:00:00.000+01:00",
+        "dateTimeEnd": "2022-08-02T12:30:00.000+01:00",
+        "subEvents": [
+          "Women's Group Match",
+          "New Zealand v Australia",
+          "Ghana v Canada"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Hockey",
+        "dateTimeStart": "2022-08-02T14:00:00.000+01:00",
+        "dateTimeEnd": "2022-08-02T17:30:00.000+01:00",
+        "subEvents": [
+          "Women's Group Match",
+          "India v England",
+          "Kenya v South Africa"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Squash",
+        "dateTimeStart": "2022-08-02T16:00:00.000+01:00",
+        "dateTimeEnd": "2022-08-02T19:30:00.000+01:00",
+        "subEvents": [
+          "Women's Singles Semi-final",
+          "Women's Singles Plate Semi-final",
+          "Men's Singles Semi-final",
+          "Men's Singles Plate Semi-final",
+          "Women's Singles Semi-final",
+          "Women's Singles Plate Semi-final",
+          "Men's Singles Semi-final",
+          "Men's Singles Plate Semi-final"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Hockey",
+        "dateTimeStart": "2022-08-03T09:00:00.000+01:00",
+        "dateTimeEnd": "2022-08-03T12:30:00.000+01:00",
+        "subEvents": [
+          "Women's Group Match",
+          "Australia v Scotland",
+          "Canada v India"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Squash",
+        "dateTimeStart": "2022-08-03T10:00:00.000+01:00",
+        "dateTimeEnd": "2022-08-03T13:00:00.000+01:00",
+        "subEvents": [
+          "Mixed Doubles Preliminary Round of 32",
+          "Mixed Doubles Preliminary Round of 32",
+          "Mixed Doubles Preliminary Round of 32",
+          "Women's Singles Plate Final",
+          "Mixed Doubles Preliminary Round of 32",
+          "Men's Singles Plate Final"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Hockey",
+        "dateTimeStart": "2022-08-03T14:00:00.000+01:00",
+        "dateTimeEnd": "2022-08-03T17:30:00.000+01:00",
+        "subEvents": [
+          "Men's Group Match",
+          "Canada v India",
+          "Wales v Ghana"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Squash",
+        "dateTimeStart": "2022-08-03T16:00:00.000+01:00",
+        "dateTimeEnd": "2022-08-03T20:30:00.000+01:00",
+        "subEvents": [
+          "Women's Singles Bronze Medal",
+          "Men's Singles Bronze Medal",
+          "Women's Singles Gold Medal",
+          "Men's Singles Gold Medal",
+          "Women's Singles Medal Ceremony",
+          "Men's Singles Medal Ceremony"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Hockey",
+        "dateTimeStart": "2022-08-03T19:00:00.000+01:00",
+        "dateTimeEnd": "2022-08-03T22:30:00.000+01:00",
+        "subEvents": [
+          "Men's Group Match",
+          "Pakistan v Scotland",
+          "South Africa v Australia"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Hockey",
+        "dateTimeStart": "2022-08-04T09:00:00.000+01:00",
+        "dateTimeEnd": "2022-08-04T12:30:00.000+01:00",
+        "subEvents": [
+          "Women's Group Match",
+          "South Africa v New Zealand",
+          "England v Wales"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Squash",
+        "dateTimeStart": "2022-08-04T12:00:00.000+01:00",
+        "dateTimeEnd": "2022-08-04T15:00:00.000+01:00",
+        "subEvents": [
+          "Women's Doubles Preliminary Round of 16",
+          "Men's Doubles Preliminary Round of 32",
+          "Mixed Doubles Preliminary Round of 16",
+          "Men's Doubles Preliminary Round of 32",
+          "Women's Doubles Preliminary Round of 16",
+          "Men's Doubles Preliminary Round of 32",
+          "Mixed Doubles Preliminary Round of 16",
+          "Men's Doubles Preliminary Round of 32"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Hockey",
+        "dateTimeStart": "2022-08-04T14:00:00.000+01:00",
+        "dateTimeEnd": "2022-08-04T17:30:00.000+01:00",
+        "subEvents": [
+          "Men's Group Match",
+          "India v Wales",
+          "Canada v England"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Squash",
+        "dateTimeStart": "2022-08-04T18:00:00.000+01:00",
+        "dateTimeEnd": "2022-08-04T21:00:00.000+01:00",
+        "subEvents": [
+          "Women's Doubles Preliminary Round of 16",
+          "Men's Doubles Preliminary Round of 32",
+          "Mixed Doubles Preliminary Round of 16",
+          "Men's Doubles Preliminary Round of 32",
+          "Women's Doubles Preliminary Round of 16",
+          "Men's Doubles Preliminary Round of 32",
+          "Mixed Doubles Preliminary Round of 16",
+          "Men's Doubles Preliminary Round of 32"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Hockey",
+        "dateTimeStart": "2022-08-04T19:00:00.000+01:00",
+        "dateTimeEnd": "2022-08-04T22:30:00.000+01:00",
+        "subEvents": [
+          "Men's Group Match",
+          "South Africa v New Zealand",
+          "Australia v Pakistan"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Hockey",
+        "dateTimeStart": "2022-08-05T09:00:00.000+01:00",
+        "dateTimeEnd": "2022-08-05T13:30:00.000+01:00",
+        "subEvents": [
+          "Women's Classification Match 9v10",
+          "Women's Classification Match 7v8"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Squash",
+        "dateTimeStart": "2022-08-05T12:00:00.000+01:00",
+        "dateTimeEnd": "2022-08-05T15:00:00.000+01:00",
+        "subEvents": [
+          "Men's Doubles Preliminary Round of 16",
+          "Mixed Doubles Plate Classification Round of 16",
+          "Men's Doubles Preliminary Round of 16",
+          "Mixed Doubles Plate Classification Round of 16",
+          "Men's Doubles Preliminary Round of 16",
+          "Mixed Doubles Plate Classification Round of 16",
+          "Men's Doubles Preliminary Round of 16",
+          "Mixed Doubles Plate Classification Round of 16"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Hockey",
+        "dateTimeStart": "2022-08-05T18:00:00.000+01:00",
+        "dateTimeEnd": "2022-08-05T22:30:00.000+01:00",
+        "subEvents": [
+          "Women's Semi-final 1",
+          "Women's Semi-final 2"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Squash",
+        "dateTimeStart": "2022-08-05T18:00:00.000+01:00",
+        "dateTimeEnd": "2022-08-05T21:00:00.000+01:00",
+        "subEvents": [
+          "Mixed Doubles Quarter-finals",
+          "Women's Doubles Quarter-finals",
+          "Mixed Doubles Quarter-finals",
+          "Women's Doubles Quarter-finals"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Hockey",
+        "dateTimeStart": "2022-08-06T09:00:00.000+01:00",
+        "dateTimeEnd": "2022-08-06T13:30:00.000+01:00",
+        "subEvents": [
+          "Men's Classification Match 9v10",
+          "Men's Classification Match 7v8"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Squash",
+        "dateTimeStart": "2022-08-06T12:00:00.000+01:00",
+        "dateTimeEnd": "2022-08-06T15:00:00.000+01:00",
+        "subEvents": [
+          "Men's Doubles Quarter-final",
+          "Mixed Doubles Plate Quarter-finals",
+          "Men's Doubles Quarter-final",
+          "Men's Doubles Plate Quarter-finals",
+          "Mixed Doubles Semi-final",
+          "Men's Doubles Plate Classification Round of 16",
+          "Men's Doubles Plate Classification Round of 16"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Hockey",
+        "dateTimeStart": "2022-08-06T18:00:00.000+01:00",
+        "dateTimeEnd": "2022-08-06T22:30:00.000+01:00",
+        "subEvents": [
+          "Men's Semi-final 1",
+          "Men's Semi-final 2"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Squash",
+        "dateTimeStart": "2022-08-06T18:00:00.000+01:00",
+        "dateTimeEnd": "2022-08-06T21:00:00.000+01:00",
+        "subEvents": [
+          "Men's Doubles Quarter-final",
+          "Women's Doubles Plate Quarter-final",
+          "Men's Doubles Quarter-final",
+          "Women's Doubles Plate Quarter-final",
+          "Mixed Doubles Semi-final",
+          "Mixed Doubles Plate Semi-finals"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Hockey",
+        "dateTimeStart": "2022-08-07T09:00:00.000+01:00",
+        "dateTimeEnd": "2022-08-07T14:00:00.000+01:00",
+        "subEvents": [
+          "Women's Bronze Medal Match",
+          "Women's Classification Match 5v6"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Squash",
+        "dateTimeStart": "2022-08-07T12:00:00.000+01:00",
+        "dateTimeEnd": "2022-08-07T15:00:00.000+01:00",
+        "subEvents": [
+          "Women's Doubles Semi-final",
+          "Men's Doubles Plate Quarter-finals",
+          "Men's Doubles Semi-final",
+          "Men's Doubles Plate Quarter-finals",
+          "Women's Doubles Semi-final",
+          "Women's Doubles Plate Semi-final",
+          "Men's Doubles Semi-final",
+          "Women's Doubles Plate Semi-final"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Hockey",
+        "dateTimeStart": "2022-08-07T15:00:00.000+01:00",
+        "dateTimeEnd": "2022-08-07T20:00:00.000+01:00",
+        "subEvents": [
+          "Women's Gold Medal Match",
+          "Men's Classification Match 5v6",
+          "Women's Medal Ceremony"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Squash",
+        "dateTimeStart": "2022-08-07T18:00:00.000+01:00",
+        "dateTimeEnd": "2022-08-07T21:15:00.000+01:00",
+        "subEvents": [
+          "Mixed Doubles Bronze medal",
+          "Men's Doubles Plate Semi-finals",
+          "Mixed Doubles Gold medal",
+          "Mixed Doubles Plate Final",
+          "Mixed Doubles Medal Ceremony"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
       }
+
+      ,
+      {
+        "name": "Hockey",
+        "dateTimeStart": "2022-08-08T09:00:00.000+01:00",
+        "dateTimeEnd": "2022-08-08T11:30:00.000+01:00",
+        "subEvents": [
+          "Men's Bronze Medal Match"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Squash",
+        "dateTimeStart": "2022-08-08T10:00:00.000+01:00",
+        "dateTimeEnd": "2022-08-08T14:30:00.000+01:00",
+        "subEvents": [
+          "Women's Doubles Bronze medal",
+          "Women's Doubles Plate Final",
+          "Women's Doubles Gold medal",
+          "Men's Doubles Plate Final",
+          "Men's Doubles Bronze medal",
+          "Men's Doubles Gold medal",
+          "Women's Doubles Medal Ceremony",
+          "Men's Doubles Medal Ceremony"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Hockey",
+        "dateTimeStart": "2022-08-08T12:30:00.000+01:00",
+        "dateTimeEnd": "2022-08-08T15:00:00.000+01:00",
+        "subEvents": [
+          "Men's Gold Medal Match",
+          "Men's Medal Ceremony"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      }
+
     ]
   },
   {
@@ -195,13 +3649,250 @@
     "latitude": 	52.28719972783462,
     "longitude":  -1.543736627765278,
     "wheelchair": false,
+    "venue": true,
     "events": [
       {
-        "Name": "",
-        "Date": "",
-        "Time": "",
-        "Description": ""
+        "name": "Lawn Bowls and Para Lawn Bowls",
+        "dateTimeStart": "2022-07-29T08:30:00.000+01:00",
+        "dateTimeEnd": "2022-07-29T13:45:00.000+01:00",
+        "subEvents": [
+          "Women's Singles Sectional Play - Round 1",
+          "Para Men's Pairs B6-B8 Sectional Play - Round 1",
+          "Men's Triples Sectional Play - Round 1",
+          "Women's Singles Sectional Play - Round 2",
+          "Para Women's Pairs B6-B8 Sectional Play - Round 1",
+          "Men's Triples Sectional Play - Round 2"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Lawn Bowls and Para Lawn Bowls",
+        "dateTimeStart": "2022-07-29T15:00:00.000+01:00",
+        "dateTimeEnd": "2022-07-29T20:15:00.000+01:00",
+        "subEvents": [
+          "Men's Pairs Sectional Play - Round 1",
+          "Para Men's Pairs B6-B8 Sectional Play - Round 2",
+          "Women's Fours Sectional Play - Round 1",
+          "Men's Pairs Sectional Play - Round 2",
+          "Para Women's Pairs B6-B8 Sectional Play - Round 2",
+          "Women's Fours Sectional Play - Round 2"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Lawn Bowls and Para Lawn Bowls",
+        "dateTimeStart": "2022-07-30T08:30:00.000+01:00",
+        "dateTimeEnd": "2022-07-30T13:45:00.000+01:00",
+        "subEvents": [
+          "Men's Triples Sectional Play - Round 3",
+          "Para Men's Pairs B6-B8 Sectional Play - Round 3",
+          "Women's Singles Sectional Play - Round 3",
+          "Men's Triples Sectional Play - Round 4",
+          "Para Women's Pairs B6-B8 Sectional Play - Round 3",
+          "Women's Singles Sectional Play - Round 4"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Lawn Bowls and Para Lawn Bowls",
+        "dateTimeStart": "2022-07-30T15:00:00.000+01:00",
+        "dateTimeEnd": "2022-07-30T20:15:00.000+01:00",
+        "subEvents": [
+          "Women's Fours Sectional Play - Round 3",
+          "Para Men's Pairs B6-B8 Sectional Play - Round 4",
+          "Men's Pairs Sectional Play - Round 3",
+          "Women's Fours Sectional Play - Round 4",
+          "Para Women's Pairs B6-B8 Sectional Play - Round 4",
+          "Men's Pairs Sectional Play - Round 4"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Lawn Bowls and Para Lawn Bowls",
+        "dateTimeStart": "2022-07-31T08:30:00.000+01:00",
+        "dateTimeEnd": "2022-07-31T13:45:00.000+01:00",
+        "subEvents": [
+          "Men's Triples Sectional Play - Round 5",
+          "Women's Singles Sectional Play - Round 5",
+          "Men's Pairs Sectional Play - Round 5",
+          "Women's Fours Sectional Play - Round 5"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Lawn Bowls and Para Lawn Bowls",
+        "dateTimeStart": "2022-07-31T15:00:00.000+01:00",
+        "dateTimeEnd": "2022-07-31T20:15:00.000+01:00",
+        "subEvents": [
+          "Women's Fours - Quarter-Finals",
+          "Men's Triples - Quarter-Finals",
+          "Para Men's Pairs B6-B8 Sectional Play - Round 5",
+          "Para Women's Pairs B6-B8 Sectional Play - Round 5",
+          "Men's Pairs - Quarter-Finals",
+          "Women's Singles - Quarter-Finals",
+          "Para Mixed Pairs B2-B3 Sectional Play - Round 1"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Lawn Bowls and Para Lawn Bowls",
+        "dateTimeStart": "2022-08-01T08:30:00.000+01:00",
+        "dateTimeEnd": "2022-08-01T15:15:00.000+01:00",
+        "subEvents": [
+          "Men's Triples - Semi-Finals",
+          "Women's Fours - Semi-Finals",
+          "Para Men's Pairs B6-B8 - Semi-Finals",
+          "Para Women's Pairs B6-B8 - Semi-Finals",
+          "Women's Singles - Semi-Finals",
+          "Men's Triples - Medal Matches",
+          "Men's Pairs - Semi-Finals",
+          "Para Mixed Pairs B2-B3 Sectional Play - Round 2",
+          "Men's Triples - Medal Ceremony"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Lawn Bowls and Para Lawn Bowls",
+        "dateTimeStart": "2022-08-01T16:30:00.000+01:00",
+        "dateTimeEnd": "2022-08-01T19:45:00.000+01:00",
+        "subEvents": [
+          "Women's Singles - Medal Matches",
+          "Para Mixed Pairs B2-B3 Sectional Play - Round 3",
+          "Women's Singles - Medal Ceremony"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Lawn Bowls and Para Lawn Bowls",
+        "dateTimeStart": "2022-08-02T08:30:00.000+01:00",
+        "dateTimeEnd": "2022-08-02T15:00:00.000+01:00",
+        "subEvents": [
+          "Men's Pairs - Medal Matches",
+          "Women's Triples Sectional Play - Round 1",
+          "Women's Pairs Sectional Play - Round 1",
+          "Men's Pairs - Medal Ceremony",
+          "Women's Fours - Medal Matches",
+          "Men's Singles - Sectional Play - Round 1",
+          "Para Mixed Pairs B2-B3 Sectional Play - Round 4",
+          "Women's Fours - Medal Ceremony"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Lawn Bowls and Para Lawn Bowls",
+        "dateTimeStart": "2022-08-02T16:15:00.000+01:00",
+        "dateTimeEnd": "2022-08-02T19:00:00.000+01:00",
+        "subEvents": [
+          "Para Men's Pairs B6-B8 - Medal Matches",
+          "Men's Fours Sectional Play - Round 1",
+          
+          "Women's Triples Sectional Play - Round 2",
+          "Para Men's Pairs B6-B8 - Medal Ceremony"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Lawn Bowls and Para Lawn Bowls",
+        "dateTimeStart": "2022-08-03T08:30:00.000+01:00",
+        "dateTimeEnd": "2022-08-03T13:45:00.000+01:00",
+        "subEvents": [
+          "Women's Pairs Sectional Play - Round 2",
+          "Men's Singles - Sectional Play - Round 2",
+          "Women's Pairs Sectional Play - Round 3",
+          "Men's Singles - Sectional Play - Round 3"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Lawn Bowls and Para Lawn Bowls",
+        "dateTimeStart": "2022-08-03T15:00:00.000+01:00",
+        "dateTimeEnd": "2022-08-03T20:45:00.000+01:00",
+        "subEvents": [
+          "Para Women's Pairs B6-B8 - Medal Matches",
+          "Women's Triples Sectional Play - Round 3",
+          "Men's Fours Sectional Play - Round 2",
+          "Para Women's Pairs B6-B8 - Medal Ceremony",
+          "Men's Fours Sectional Play - Round 3",
+          "Para Mixed Pairs B2-B3 Sectional Play - Round 5",
+          "Women's Triples Sectional Play - Round 4"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Lawn Bowls and Para Lawn Bowls",
+        "dateTimeStart": "2022-08-04T08:30:00.000+01:00",
+        "dateTimeEnd": "2022-08-04T13:45:00.000+01:00",
+        "subEvents": [
+          "Men's Singles - Sectional Play - Round 4",
+          "Women's Pairs Sectional Play - Round 4",
+          "Men's Singles - Sectional Play - Round 5",
+          "Women's Pairs Sectional Play - Round 5"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Lawn Bowls and Para Lawn Bowls",
+        "dateTimeStart": "2022-08-04T15:00:00.000+01:00",
+        "dateTimeEnd": "2022-08-04T20:15:00.000+01:00",
+        "subEvents": [
+          "Women's Triples Sectional Play - Round 5",
+          "Men's Fours Sectional Play - Round 4",
+          "Para Mixed Pairs B2-B3 - Semi-Finals",
+          "Women's Triples - Quarter-Finalsy",
+          "Men's Fours Sectional Play - Round 5"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Lawn Bowls and Para Lawn Bowls",
+        "dateTimeStart": "2022-08-05T08:30:00.000+01:00",
+        "dateTimeEnd": "2022-08-05T15:15:00.000+01:00",
+        "subEvents": [
+          "Women's Triples - Semi Finals",
+          "Women's Pairs - Quarter-Finals",
+          "Men's Singles - Quarter-Finals",
+          "Para Mixed Pairs B2-B3 - Medal Matches",
+          "Women's Pairs - Semi-Finals",
+          "Men's Fours - Quarter-Finals",
+          "Para Mixed Pairs B2-B3 - Medal Ceremony"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Lawn Bowls and Para Lawn Bowls",
+        "dateTimeStart": "2022-08-05T16:30:00.000+01:00",
+        "dateTimeEnd": "2022-08-05T19:45:00.000+01:00",
+        "subEvents": [
+          "Women's Triples - Medal Matches",
+          "Men's Fours - Semi-Finals",
+          "Women's Triples - Medal Ceremony"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Lawn Bowls and Para Lawn Bowls",
+        "dateTimeStart": "2022-08-06T08:30:00.000+01:00",
+        "dateTimeEnd": "2022-08-06T15:15:00.000+01:00",
+        "subEvents": [
+          "Women's Pairs - Medal Matches",
+          "Men's Fours - Medal Matches",
+          "Men's Singles - Semi-Finals",
+          "Women's Pairs - Medal Ceremony",
+          "Men's Fours - Medal Ceremony"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
+      },
+      {
+        "name": "Lawn Bowls and Para Lawn Bowls",
+        "dateTimeStart": "2022-08-06T16:30:00.000+01:00",
+        "dateTimeEnd": "2022-08-06T19:45:00.000+01:00",
+        "subEvents": [
+          "Men's Singles - Medal Matches",
+          "Men's Singles - Medal Ceremony"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
       }
+
     ]
   },
   {
@@ -212,14 +3903,8 @@
     "latitude": 	52.47896135751349,
     "longitude":  -1.9028046355160046,
     "wheelchair": true,
-    "events": [
-      {
-        "Name": "",
-        "Date": "",
-        "Time": "",
-        "Description": ""
-      }
-    ]
+    "venue": true,
+    "events": []
   },
   {
     "name": "Warwick",
@@ -229,12 +3914,19 @@
     "latitude": 	52.280693711307954,
     "longitude":  -1.5708382082475476,
     "wheelchair": false,
+    "venue": true,
     "events": [
       {
-        "Name": "",
-        "Date": "",
-        "Time": "",
-        "Description": ""
+        "name": "Cycling - Road Race",
+        "dateTimeStart": "2022-08-07T08:00:00.000+01:00",
+        "dateTimeEnd": "2022-08-07T17:00:00.000+01:00",
+        "subEvents": [
+          "Women's Road Race Final",
+          "Women's Road Race Medal Ceremony",
+          "Men's Road Race Final",
+          "Men's Road Race Medal Ceremony"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
       }
     ]
   },
@@ -246,12 +3938,19 @@
     "latitude": 	52.58961464536341,
     "longitude":  -2.1397746719591275,
     "wheelchair": false,
+    "venue": true,
     "events": [
       {
-        "Name": "",
-        "Date": "",
-        "Time": "",
-        "Description": ""
+        "name": "Cycling - Time Trial",
+        "dateTimeStart": "2022-08-04T10:00:00.000+01:00",
+        "dateTimeEnd": "2022-08-04T16:00:00.000+01:00",
+        "subEvents": [
+          "Women's Time Trial Final",
+          "Women's Time Trial Medal Ceremony",
+          "Men's Time Trial Final",
+          "Men's Time Trial Medal Ceremony"
+        ],
+        "ticket": "https://queue.tickets.birmingham2022.com/?c=tickethour&e=cwg2022apr22&ver=v3-javascript-3.6.1&cver=47&man=cwg2022prod-action&t=https%3A%2F%2Ftickets.birmingham2022.com%2F&kupver=cloudfront-1.2.3"
       }
     ]
   }
